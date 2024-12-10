@@ -1,0 +1,524 @@
+line_count,en,lt,translated_text,BLEU_Score,CHRF_Score,COMET_Score
+1,Meeting in Vilnius,Sutikimas Vilniuje,Sutikimas Vilniuje,58.45374263757147,80.04940936491896,1.3288706541061401
+2,That is the address,Štai adresas,Štai adresas,58.45374263757147,80.04940936491896,1.3287941217422485
+3,Where does Sigita live?,Kur gyvena Sigita?,Kur givena Sigita?,58.45374263757147,80.04940936491896,-0.27422958612442017
+4,I am looking for Miss Sigita,Aš ieškau Sigitos,Aš ieškau Sigitos,58.45374263757147,80.04940936491896,1.3253916501998901
+5,Just a moment,Minutėlę,Minutėlė,58.45374263757147,80.04940936491896,1.312448501586914
+6,Who are you please?,"Atsiprašau, o kas Jūs?","Asiprašau, o kas mes?",58.45374263757147,80.04940936491896,-0.5926739573478699
+7,"Hello, I am Jonas Vasiliauskas","Alio, aš esu Jonas Vasiliauskas","Alio, aš esu Jonas Vasiliauskas",58.45374263757147,80.04940936491896,1.329047679901123
+8,I am from Lithuania,Aš esu iš Lietuvos,Aš esu iš Lietuvos,58.45374263757147,80.04940936491896,1.327195405960083
+9,Welcome to Vilnius,Sveiki atvykę į Vilnių,Sveiki atvykę į Vilnių,58.45374263757147,80.04940936491896,1.3271243572235107
+10,A hotel room is reserved for you,Jums užsakytas kambarys viešbutyje,Jums užpakaliukas kambarys viešumas,58.45374263757147,80.04940936491896,-1.0954163074493408
+11,"The hotel is called ""Žaliasis tiltas""","Viešbutis vadinasi ""Žaliasis tiltas""","Viešbutis vadinis ""Žaliasis tiltas""",58.45374263757147,80.04940936491896,1.3240731954574585
+12,The hotel is not large,Viešbutis nedidelis,Viešbutis nedidelis,58.45374263757147,80.04940936491896,1.328885793685913
+13,It is small but comfortable,"Jis mažas, bet patogus","Jis mažas, bet patogus",58.45374263757147,80.04940936491896,1.3254081010818481
+14,Where is the hotel?,Kur yra viešbutis?,Kur yra viešbutis?,58.45374263757147,80.04940936491896,1.3293582201004028
+15,It is easy to find and not far,"Lengva surasti, jis netoli","Lengva surasti, jis netoli",58.45374263757147,80.04940936491896,1.3216748237609863
+16,Go left into Kalvarijos street and it  is one hundred meters in the right,"Pasukite į Kalvarijos gatvę, jis už šimto metrų dešinėje","Pasukite į Kalvarijos gatvę, jis už šimto metrų dešinėje",58.45374263757147,80.04940936491896,1.316674828529358
+17,Good night. Till tomorrow,Labanaktis. Iki.,Labanaktis. Iki.,58.45374263757147,80.04940936491896,1.3287136554718018
+18,In the hotel,Viešbutyje,Viešbutyje,58.45374263757147,80.04940936491896,1.3293068408966064
+19,The receptionist welcomes you,Jus sveikina registratorė,Jus sveikina registratorė,58.45374263757147,80.04940936491896,1.3274799585342407
+20,I am expecting you already,Aš Jūsų laukiau,Aš jūsų laukau,58.45374263757147,80.04940936491896,1.280184268951416
+21,Have you got your  passport?,Ar turite pasą?,Ar turite pasą?,58.45374263757147,80.04940936491896,1.3280088901519775
+22,Your room number is seven,Jūsų kambario numeris septintas,Jūsų kambario numeris septintas,58.45374263757147,80.04940936491896,1.3280973434448242
+23,It's on the first floor,Jis antrame aukšte,Ji antrame aukštas,58.45374263757147,80.04940936491896,0.6973173022270203
+24,Your room,Jūsų kambarys,JŪSŲ KAMBARYS,58.45374263757147,80.04940936491896,-0.15859907865524292
+25,Here is your room.,Štai Jūsų kambarys.,Štų Jūsų kambarys.,58.45374263757147,80.04940936491896,0.40024372935295105
+26,The room is very nice.,Kambarys puikus.,Kambarys puikus.,58.45374263757147,80.04940936491896,1.3291261196136475
+27,On the bed is only one  pillow. Would you like two?,"Ant lovos - viena pagalvė, ar norite antrą?","Ant lovos - viena šventė, ar norite antrą?",58.45374263757147,80.04940936491896,0.03235911577939987
+28,No thank you. Only one please.,"Ne, ačiū. Užteks vienos.","Ne, ačiū. Užteks vienos.",58.45374263757147,80.04940936491896,1.324885368347168
+29,The bathroom is next door.,Vonia yra šalia kambario.,Vonia era šalia kambario.,58.45374263757147,80.04940936491896,0.7482683658599854
+30,Would you like to take a  shower?,Ar norite išsimaudyti?,Ar norite išsimaudyti?,58.45374263757147,80.04940936491896,1.3279521465301514
+31,Yes please.,"Taip, būtų gerai.","Taip, būtų gerai.",58.45374263757147,80.04940936491896,1.3239203691482544
+32,Here is the soap and a bath towel.,Štai muilas ir vonios rankšluostis.,Štai muilas ir vonios rankšluostis.,58.45374263757147,80.04940936491896,1.3270782232284546
+33,Thank you. The bath towel is large and soft. Terrific!,Ačiū. Rankšluostis didelis ir minkštas.  Nuostabu!,Ačiū. Rankšluostis didelis ir audimas. Nuostabu!,58.45374263757147,80.04940936491896,0.538012683391571
+34,In the hotel at reception,Viešbučio registratūroje,Viešbučio registratūroje,58.45374263757147,80.04940936491896,1.3281017541885376
+35,I do not like my room.,"Atsiprašau, bet aš nepatenkintas kambariu.","Asiprašau, lažintis dėl nepatenkinto kambariu.",58.45374263757147,80.04940936491896,0.2484949231147766
+36,What is the matter then?,O kas negerai?,O kas negerai?,58.45374263757147,80.04940936491896,1.3282103538513184
+37,I cannot sleep.,Negaliu miegoti.,Negaliu miegoti.,58.45374263757147,80.04940936491896,1.3301992416381836
+38,I hear the street noise.,Girdėti triukšmas gatvėje.,Girdėtės triaukštis gatvėje.,58.45374263757147,80.04940936491896,0.6951536536216736
+39,Where is your room?,Kur yra Jūsų kambarys?,Kur yra Jūsų kambarys?,58.45374263757147,80.04940936491896,1.3284428119659424
+40,On the first floor.,Pirmajame aukšte.,Pirmajame aukštai.,58.45374263757147,80.04940936491896,0.8195195198059082
+41,My room number is seven.,Mano kambarys septintas.,Mano kambarys septintas.,58.45374263757147,80.04940936491896,1.327568531036377
+42,Would you like a room on the fifth  floor?,Ar norite kambario penktame aukšte?,Ar norite kambario penktame aukštai?,58.45374263757147,80.04940936491896,1.1197121143341064
+43,"Yes, please.","Taip, būtų gerai.","Taip, būtų gerai.",58.45374263757147,80.04940936491896,1.3235294818878174
+44,In the morning,Ryte,Ryte,58.45374263757147,80.04940936491896,1.3258907794952393
+45,"Good morning, did you sleep well?",Labas rytas. Ar gerai miegojote?,Labas rytas. Ar gera miegojote?,58.45374263757147,80.04940936491896,-0.054676253348588943
+46,"Yes, thank you.","Taip, ačiū.","Taip, ačiū.",58.45374263757147,80.04940936491896,1.3301992416381836
+47,"The weather is fine now, isn't it?","Puikus oras, ar ne?","Puikus oras, ar ne?",58.45374263757147,80.04940936491896,1.3276119232177734
+48,The rain has stopped.,Nustojo lyti.,Nustojo lyti.,58.45374263757147,80.04940936491896,1.3267691135406494
+49,"Yes, it's a fine day.","Taip, puiki diena.","Taip, puiki diena.",58.45374263757147,80.04940936491896,1.3282010555267334
+50,It's quite hot already.,Jau gana šilta.,Jau gana šilta.,58.45374263757147,80.04940936491896,1.3281844854354858
+51,"What's the time, please?",Kiek dabar laiko?,Kiek dabar aiko?,58.45374263757147,80.04940936491896,0.6757848262786865
+52,Just a moment.,Tuoj pažiūrėsiu.,Tuoj pajūriu.,58.45374263757147,80.04940936491896,-1.3027255535125732
+53,Nearly ten o'clock!,Tuoj dešimt!,Tuoj dešimt!,58.45374263757147,80.04940936491896,1.3227242231369019
+54,The Breakfast,Pusryčiai,Pusryčiai,58.45374263757147,80.04940936491896,1.3281445503234863
+55,"Good morning, how are you?","Labas rytas, kaip miegojote?","Labas rytas, kaip miegojote?",58.45374263757147,80.04940936491896,1.3253337144851685
+56,"Good morning, what's there for  breakfast?",Labas rytas. Ką turite pusryčiams?,Labas rytas. Ką turite pusryčiams?,58.45374263757147,80.04940936491896,1.326532006263733
+57,"We have fresh  rolls: rolls with seeds or soft rolls with butter, honey or jam.","Turime šviežių bandelių: bandelių su aguonomis arba  minkštų bandelių su sviestu, medumi ar uogiene.","Turime šviesų bandelių: bandelių su aguonomis arba audrų bandelių su svestu, medumi ar uogiene.",58.45374263757147,80.04940936491896,-0.3525193929672241
+58,"Yumm, that smells good.","Hm, kvepia puikiai","Hm, kvepia puikiai",58.45374263757147,80.04940936491896,1.3297455310821533
+59,I'd like two rolls,Norėčiau dviejų,Norečiaus piliakalnis,58.45374263757147,80.04940936491896,-1.4011585712432861
+60,One roll with seeds and a soft roll with butter and honey,Vieną bandelę su aguonomis ir vieną minkštą su sviestu  ir medumi,Viena bandelė su aguonomis ir viena ranka su sviestu ir medumi,58.45374263757147,80.04940936491896,1.206924319267273
+61,I would also like a glass of orange juice and a cup of coffee  please,Taip pat norėčiau stiklinę apelsinų sulčių ir puodelį  kavos.,Taip pat norėčiau Stiklinė apelsinų sulčiaspaudės ir puodelės kavos.,58.45374263757147,80.04940936491896,0.3846275806427002
+62,Another coffee?,Dar kavos?,Dar kava?,58.45374263757147,80.04940936491896,1.2164199352264404
+63,Yes please,"Taip, ačiū","Taip, ačiū",58.45374263757147,80.04940936491896,1.3295857906341553
+64,The waitress smiles,Padavėjas šypsosi,Padavėjas šypsosi,58.45374263757147,80.04940936491896,1.3272655010223389
+65,Where do you live then?,Kur Jūs gyvenate?,Kur mes gyvenate?,58.45374263757147,80.04940936491896,0.9093083739280701
+66,I live in Toronto,Aš gyvenu Toronte,Aš givenu Toronte,58.45374263757147,80.04940936491896,-1.0677509307861328
+67,Is this your's first visit to Vilnius?,Ar Jūs pirmą kartą Vilniuje?,Ar mes perkam kartu Vilniuje?,58.45374263757147,80.04940936491896,-0.66929692029953
+68,"Yes, I like Vilnius","Taip, man patinka Vilnius","Taip, vyras patinka Vilnius",58.45374263757147,80.04940936491896,0.975439727306366
+69,Do you understand my Lithuanian?,Ar Jūs mane suprantate?,Ar Jūs mane suprantate?,58.45374263757147,80.04940936491896,1.3251899480819702
+70,"Yes, your Lithuanian is good","Taip, Jūs puikiai kalbate lietuviškai.","Taip, Jūs puikiai lietuviški.",58.45374263757147,80.04940936491896,0.05732411891222
+71,"I can understand a lot, but please speak slowly","Taip, aš daug suprantu, bet kalbėkite lėčiau prašom","Taip, aš daug daugiau suprantu, bet kalbėti lėčiau prašom",58.45374263757147,80.04940936491896,1.2007293701171875
+72,The Clock.,Laikrodis,Laikrodis,58.45374263757147,80.04940936491896,1.3269851207733154
+73,It is ten o'clock.,Dabar dešimt valandų.,Dabar dešimtų valandų.,58.45374263757147,80.04940936491896,0.8410416841506958
+74,It is ten fifteen.,Penkiolika minučių po dešimtos.,Penkiolika minučių po dešimtos.,58.45374263757147,80.04940936491896,1.3194403648376465
+75,Quarter past ten.,Ketvirtis vienuoliktos.,Ketvirtis vienuolikos.,58.45374263757147,80.04940936491896,1.233694314956665
+76,It is ten thirty or half past ten.,Dešimt valandų trisdešimt minučių arba puse vienuoliktos.,Dešimt valandinių trisdešimt minučių arba pause vienuolikos.,58.45374263757147,80.04940936491896,-0.16953837871551514
+77,It is ten forty five or quarter to eleven.,Dešimt valandų keturiasdešimt penkios minutės arba be penkiolikos  minučių vienuolika.,Dešimt valandinių keturijųdešimt penkios minutės arba be penkiolikos minučių vienuolika.,58.45374263757147,80.04940936491896,0.9220794439315796
+78,On telephone,Pokalbis telefonu,Pokalbis telefonu,58.45374263757147,80.04940936491896,1.327521800994873
+79,"Hello Sigita, here is Kathleen.","Sveika Sigita, čia Katlyna.","Sveika Sigita, čia Katlyna.",58.45374263757147,80.04940936491896,1.3268189430236816
+80,"Hello, how are things?","Sveika, kaip sekasi?","Sveikas, kaip sekasi?",58.45374263757147,80.04940936491896,1.2904466390609741
+81,"Fine, thank you.","Ačiū, puikiai.","Ačiū, puikiai.",58.45374263757147,80.04940936491896,1.3274178504943848
+82,I'm going shopping in a minute.,Aš einu dabar apsipirkti.,Iš čia svečiai gali mėgautis lengvu susisiekimu.,58.45374263757147,80.04940936491896,-0.5394420027732849
+83,So am I. I'm going to the market.,Aš taip pat. Ruošiuosi eiti į turgų.,Iš čia svečiai gali mėgautis lengvu susisiekimu.,58.45374263757147,80.04940936491896,-0.7848249077796936
+84,"Oh yes, today is market day.","O, šiandien juk turgaus diena.","O, šiandien juk turgaus diena.",58.45374263757147,80.04940936491896,1.3270660638809204
+85,Then I'll go to the market as well.,Tada aš irgi eisiu į turgų.,Tada aš irgi eisiu į turgų.,58.45374263757147,80.04940936491896,1.326708436012268
+86,Shall we meet?,Ar susitiksime?,Ar susitiksime?,58.45374263757147,80.04940936491896,1.32694673538208
+87,Is that possible?,Ar tai įmanoma?,Ar tai yra įmanomos?,58.45374263757147,80.04940936491896,1.2329456806182861
+88,"Yes, that is possible. Where shall we meet then?","Taip, kur galėtumėm susitikti?","Taip, kur galėtumėm susitaikyti?",58.45374263757147,80.04940936491896,1.2821844816207886
+89,At the first stall.,Prie pirmo prekystalio.,Prie pirmo prekystalio.,58.45374263757147,80.04940936491896,1.3257489204406738
+90,When shall we meet?,Kada?,Kada?,58.45374263757147,80.04940936491896,1.3231804370880127
+91,At 10 o'clock sharp. Is that all right?,Tiksliai dešimtą. Ar tinka?,Tiksliai dešimtą. Ar tinka?,58.45374263757147,80.04940936491896,1.300562858581543
+92,What's the time now?,Kiek dabar?,Kiekas Dabaras?,58.45374263757147,80.04940936491896,0.6352733969688416
+93,Nearly ten.,Greitai dešimt.,Greitai dešimt.,58.45374263757147,80.04940936491896,1.3266379833221436
+94,Good-bye; see you in a minute then.,Iki. Greitai pasimatysime.,Iki. Greitai pasimatysime.,58.45374263757147,80.04940936491896,1.3284084796905518
+95,On the market,Turguje,Turgujė,58.45374263757147,80.04940936491896,-0.4640457332134247
+96,"Yum, the strawberries smell lovely.","Ach, kaip puikiai kvepia braškės.","Ach, kaip puikiai kvepia braškės.",58.45374263757147,80.04940936491896,1.3263452053070068
+97,"Yes, strawberries are my favorite.","O, braškės mano mėgstamiausios uogos.","O, braškes mano megstamiausios uogos.",58.45374263757147,80.04940936491896,-0.9536041617393494
+98,"But Ana, the strawberries are not  fresh.","Bet Ana, braškės ne šviežios.","Bet Ana, braškės ne Šviesios.",58.45374263757147,80.04940936491896,0.6915720105171204
+99,Not fresh? What a pity!,Ne šviežios? Kaip gaila!,Ne Šviesios? Kaip gaila!,58.45374263757147,80.04940936491896,0.949702799320221
+100,At the vegetable stand,Prie daržovių prekystalio,Prie Daržovių prekybos centro,58.45374263757147,80.04940936491896,0.497172474861145
+101,A long cucumber please.,Man prašau ilgą agurką.,Man prašau lgą gurką.,58.45374263757147,80.04940936491896,0.43622511625289917
+102,Anything else?,Dar ką nors?,Dar ką nors?,58.45374263757147,80.04940936491896,1.3260953426361084
+103,"Yes, A nice, lettuce  please.","Taip, prašau gražių salotų.","Taip, prašau graikų salotų.",58.45374263757147,80.04940936491896,1.0117696523666382
+104,"Three Litas , please.",Trys litai.,Išbando litai.,58.45374263757147,80.04940936491896,-0.3368006646633148
+105,Here is a twenty Litas  note.,Štai dvidešimt litų.,Štai dvidešimt litų.,58.45374263757147,80.04940936491896,1.327741026878357
+106,"Thanks. And here's a ten Litas note and  one, two, three, four, five, six, seven Litas back.","Ačiū. Dešimt litų ir vienas, du,  trys, keturi, penki, šeši, septyni litai  grąžos.","Ačiū. Dešimt litų ir vienas, du, tries, keturi, penki, šeši, septyni litai gr<unk> os.",58.45374263757147,80.04940936491896,0.45260846614837646
+107,Thank you.,Ačiū.,Ačiū.,58.45374263757147,80.04940936491896,1.3265116214752197
+108,At Sigita's,Pas Sigitą,Pas Sigitą,58.45374263757147,80.04940936491896,1.3282519578933716
+109,I am hungry; you as well?,"Aš alkanas(-a), o tu?","Aš alkanas (-a), o tu?",58.45374263757147,80.04940936491896,1.319990634918213
+110,Yes. When is lunch then?,Taip. Kada priešpiečiai?,Taip. Kada priešpiečiai?,58.45374263757147,80.04940936491896,1.3241846561431885
+111,Any minute now. The sun is  shining. We could have lunch on the balcony.,Už kelių minučių. Saulė šviečia. Galėtumėm  valgyti balkone.,Už kelių minučių. Saulė šviečia. Galetumem valgyti balkone.,58.45374263757147,80.04940936491896,1.299689769744873
+112,Teriffic. I lay the table. What we have then?,Puiku. Aš padengsiu stalą. Ką mes valgysim?,Aš esu aš. Aš esu aš. Ką mes valgysim?,58.45374263757147,80.04940936491896,-1.20909583568573
+113,"Cheese Šeduva, eggs and  salad. Would you like omelet?","Šeduvos sūrį, kiaušinius ir salotas.  Gal norėtum omleto?","Šeduvos sūris, kiaušinis ir salotas. Gal norėtum omleto?",58.45374263757147,80.04940936491896,1.320546269416809
+114,"Omelet? Yuck, I don't like that.","Omleto? Ačiū, bet aš nemėgstu.","Omleto? Ačiū, lažintis, kad aš negėgstu.",58.45374263757147,80.04940936491896,-0.9975590705871582
+115,I've got some rolls as well.,Aš dar turiu keletą bandelių,Aš dar turistinis kelias bandelių,58.45374263757147,80.04940936491896,-1.0740251541137695
+116,"Yes, some rolls please.",Porą bandelių prašom.,Porų bandelių prašom.,58.45374263757147,80.04940936491896,1.3204753398895264
+117,Can we meet this  morning?,Ar galėtumėm šiandien  susitikti?,"Ar gali būti, kad šindien susitikti?",58.45374263757147,80.04940936491896,0.24795418977737427
+118,"Yes, that's possible.","Taip, galim.","Taip, galim.",58.45374263757147,80.04940936491896,1.3285325765609741
+119,At 9 o'clock perhaps?,Gal 9 valandą?,Gal 9 valandėlės?,58.45374263757147,80.04940936491896,0.5932256579399109
+120,"No, that won't do.","Ne, man netinka.","Ne, netinka.",58.45374263757147,80.04940936491896,1.2983145713806152
+121,I want to go shopping first and the shops open at  8:30.,"Aš norėčiau eiti apsipirkti, o parduotuvės dirba nuo 8:30.","Aš noriu eiti apsipirkti, o parduotuvės dirba nuo 8:30.",58.45374263757147,80.04940936491896,1.3084349632263184
+122,Half past ten is fine.,Tada būtų gerai puse  vienuoliktos.,Tadas Būtų Gerų Pesų Vienuolės.,58.45374263757147,80.04940936491896,-0.8348844051361084
+123,All right then. At 10:30.,"Puiku, puse vienuoliktos.","Puiku, puse vienuolikos.",58.45374263757147,80.04940936491896,1.1069740056991577
+124,Where shall we meet?,Kur mes susitiksime?,Kur mes susitiksime?,58.45374263757147,80.04940936491896,1.3283393383026123
+125,Perhaps in front of the Hermis bank?,Gal prie Hermio banko?,Gal prie Hermio banko?,58.45374263757147,80.04940936491896,1.3287726640701294
+126,"Oh no, not there.","Oi ne, ne ten.","Oi ne, ne dešimt.",58.45374263757147,80.04940936491896,0.3652493357658386
+127,"Better opposite, in the Cafe ""Neringa"".","Geriau kitoje pusėje, Neringos kavinėje.","Geriau kitoje pusėje, Neringos kavinėje.",58.45374263757147,80.04940936491896,1.3243067264556885
+128,All right. I'll be there at half past ten.,"Gerai, aš būsiu ten puse  vienuoliktos.","Gerai, aš būsiu dešimt pese vienuolikos.",58.45374263757147,80.04940936491896,-0.1710367649793625
+129,In the men's outfitter's,Vyriškų drabužių  parduotuvėje,Vyriškų drabužių parduotuvė,58.45374263757147,80.04940936491896,1.222261905670166
+130,Good afternoon.,Laba diena.,Laba diena.,58.45374263757147,80.04940936491896,1.3274433612823486
+131,What can I do for you?,Kuo galiu padėti?,Kuo gali būti padėta?,58.45374263757147,80.04940936491896,1.277247428894043
+132,I'd like a pair of socks. Cotton please.,Norėčiau keletą porų medvilninių  kojinių,Norėčiau kelių porų medvilninių kojinių,58.45374263757147,80.04940936491896,1.3243824243545532
+133,What size do you take?,Kokio dydžio?,Kokio dydžio?,58.45374263757147,80.04940936491896,1.3261796236038208
+134,I take shoe size 9-9,Aš nešioju 43 dydį.,Aš nešioju 43 dydį.,58.45374263757147,80.04940936491896,1.3141288757324219
+135,These here are all 70% cotton and 30% nylon.,Štai šitose yra 70% medvilnės  ir 30% neilono.,Štai šitose ira 70% medvilnės ir 30% neilono.,58.45374263757147,80.04940936491896,1.3174723386764526
+136,We don't have any in pure. They are not very  practical either.,Mes neturime grynai medvilninių.  Jos nepraktiškos.,Mes neurime grynai medvilninių. Jos nepraktiškosios.,58.45374263757147,80.04940936491896,1.2998430728912354
+137,I am sorry.,Atsiprašome.,Asiprašom.,58.45374263757147,80.04940936491896,-0.16252461075782776
+138,"Yes, that's a pity!",Gaila.,Gaila.,58.45374263757147,80.04940936491896,1.3253223896026611
+139,Good bye,Viso gero.,Viso gero.,58.45374263757147,80.04940936491896,1.3216630220413208
+140,"In the Cafe ""Neringa"", ordering a cup of coffee","Neringos kavinėje, kavos užsakymas","Neringos kavinėje, kavinėje",58.45374263757147,80.04940936491896,-0.9300710558891296
+141,May I invite you to a cup of coffee?,Galiu Jus pakviesti puodukui  kavos?,Galiu jus pakvieti puodukui kavos?,58.45374263757147,80.04940936491896,1.269445776939392
+142,Thank you. That's nice of you.,"Ačiū, Jūs labai maloni.","Ačiū, Jūra Labai Maloni.",58.45374263757147,80.04940936491896,0.8452582359313965
+143,The cakes are very good.,Pyragaičiai labai skanūs.,Pyragaičių labai skanūs.,58.45374263757147,80.04940936491896,1.312589168548584
+144,Would you like a piece?,Norite dar gabaliuko?,Norite dar gabaliuko?,58.45374263757147,80.04940936491896,1.3300139904022217
+145,"No thank you. Only a cup of black coffee, please.","Ne, ačiū. Tik juodos kavos,  prašom.","Ne, ačiū. Tik juodos kavos, prašom.",58.45374263757147,80.04940936491896,1.3285248279571533
+146,"Waiter! A cup of coffee without cream and a little jug of coffee, please.","Padavėjau, puodelį juodos kavos  be grietinėlės ir kavinuką kavos  prašom.","Padavėjai, puodelis į juodąsias kavas be grietinėlės ir kavinuko kava prašom.",58.45374263757147,80.04940936491896,0.2338295578956604
+147,Could you please pass the sugar?,Galite man paduoti cukraus?,Galite vyras paduoti cukraus?,58.45374263757147,80.04940936491896,0.9497783780097961
+148,Here you are.,Prašau.,Prašau.,58.45374263757147,80.04940936491896,1.3191226720809937
+149,At a Party,Priėmime,Priemė,58.45374263757147,80.04940936491896,-0.8331078886985779
+150,Here is the wine.,Štai vynas.,Štai vynas.,58.45374263757147,80.04940936491896,1.3268707990646362
+151,Would you like some?,Ar norėtumėte?,Ar norėtutė?,58.45374263757147,80.04940936491896,0.6289159059524536
+152,Yes please.,"Taip, prašau.","Taip, prašau.",58.45374263757147,80.04940936491896,1.3268553018569946
+153,Here comes our hostess.,Ateina mūsų šeimininkė.,Ateina mūsų šeimininkė.,58.45374263757147,80.04940936491896,1.3271275758743286
+154,"Good arternoon, Mr Becker.","Laba diena, ponia Becker.","Laba diena, Ponia Beker.",58.45374263757147,80.04940936491896,1.0843331813812256
+155,I'm glad to see you.,Malonu Jus matyti.,Malonu Jus matyti.,58.45374263757147,80.04940936491896,1.3290718793869019
+156,"It is very warm today, don't you think so?","Labai šilta šiandien, ar ne  tiesa?","Labai šilta shiandien, ar ne tiesa?",58.45374263757147,80.04940936491896,1.0411136150360107
+157,"Yes, very warm indeed. I don't mind warm weather.","Taip, iš tikrųjų. Bet aš mėgstu šiltą orą.","Taip, aš tikrų. Lažinuosi, kad aš mėgstu šiltą arą.",58.45374263757147,80.04940936491896,-0.2450401782989502
+158,It is really hot today.,Tikrai karšta šiandien.,Tikrai karšta šindien.,58.45374263757147,80.04940936491896,1.145559549331665
+159,You are wearing a jacket and tie.,Jus su švarku ir kaklaraiščiu.,Jus su švarku ir kaklaraiščiais.,58.45374263757147,80.04940936491896,1.2818403244018555
+160,You may take your jacket off if you want to.,"Galite nusirengti, jei norite.","Galite nuirengti, jei norite.",58.45374263757147,80.04940936491896,0.814622700214386
+161,In the Department  Store; to try something on,Universalinėje parduotuvėje; ką nors pasimatuoti,Universalioje parduotuvėje; ką nors pasimatuoti,58.45374263757147,80.04940936491896,1.314070463180542
+162,This dress is size 40.,Ši suknelė 40 dydžio.,Ši suknelė 40 dydžio.,58.45374263757147,80.04940936491896,1.3262474536895752
+163,That is too small for me.,Ji per maža man.,Ji per maža vyras.,58.45374263757147,80.04940936491896,0.013888062909245491
+164,Have you not got it in 42?,Ar neturite 42 dydžio?,Ar neturite 42 dydio?,58.45374263757147,80.04940936491896,0.9021709561347961
+165,No I'm sorry.,"Gaila, neturime.","Gaila, neturime.",58.45374263757147,80.04940936491896,1.3251121044158936
+166,But do try it on.,Bet pasimatuokite.,Bet pasimatuokite.,58.45374263757147,80.04940936491896,1.329286813735962
+167,It might fit.,Gal tiks.,Gal tiks.,58.45374263757147,80.04940936491896,1.3250691890716553
+168,All right then.,Na gerai.,Na gerai.,58.45374263757147,80.04940936491896,1.3260551691055298
+169,Where is the changing room?,Kur galima  pasimatuoti?,Kur galima pasimatuoti?,58.45374263757147,80.04940936491896,1.326979160308838
+170,"Over there, next to the  large mirror.","Štai ten, prie didelio veidrodžio.","Štai ten, prie didelio veidrodžio.",58.45374263757147,80.04940936491896,1.3248639106750488
+171,Thank you,Ačiū.,Ačiū.,58.45374263757147,80.04940936491896,1.324113368988037
+172,Hotel  Astoria. To reserve room (by telephone),Viešbutis Astorija. Užsakyti kambarį (telefonu),Viešbutis Astorija. Užsakyta iš anksto (telefonu),58.45374263757147,80.04940936491896,1.2168052196502686
+173,"Hotel  Astoria, Berlin, can I help you?","Viešbutis Astorija, Berlynas. Kuo galiu Jums padėti?","Viešbutis Astorija, Berlynas. Kuo gali būti Jums papėdė?",58.45374263757147,80.04940936491896,0.36960914731025696
+174,Have you any  vacancies?,Ar  turite laisvų kambarių?,Ar turit laisvų kambarių?,58.45374263757147,80.04940936491896,1.3097726106643677
+175,"Yes, we  have.","Taip, turime.","Taip, turim.",58.45374263757147,80.04940936491896,1.3005056381225586
+176,When would you  want them?,Kada norėsite?,Kada norėsite?,58.45374263757147,80.04940936491896,1.3256287574768066
+177,"Tomorrow night  untill Thursday, for one night.","Rytoj  vakare iki ketvirtadienio, vienai nakčiai.","Ryto vakare iki ketvirtadienio, vienų nakčių.",58.45374263757147,80.04940936491896,0.9141970872879028
+178,"Yes, we we've  still got rooms.",Taip dar turime laisvų kambarių.,Taip dar turim laisvų kambarių.,58.45374263757147,80.04940936491896,1.30398690700531
+179,What kind of  room would you like?,Kokio Jūs norėtumėte?,Kokio Jus norėtutė?,58.45374263757147,80.04940936491896,0.42010441422462463
+180,"Two single  rooms with bathroom, please.",Dvi vienutes su  voniomis.,Dvi vienetaitės su voniomis.,58.45374263757147,80.04940936491896,1.0095863342285156
+181,Two single  with bath. O.K. What's the name please?,Dvi  vienutes su voniomis? Jūsų pavardė?,DVI VIENUTĖS SU VONIOMIS?,58.45374263757147,80.04940936491896,-0.3431735932826996
+182,Wilson und  Holz. It's Miss Holz and myself.,Vilsonas ir  Holzas. Tai ponia Holz ir aš.,Vilsonas ir Holzas. Tai ponia Holz ir aš.,58.45374263757147,80.04940936491896,1.3131933212280273
+183,"I've written  it down, Mr.Wilson. Please report at the reception by 2 p.m. tomorrow. Otherwise we do not  guarantee the booking.","Aš užrašiau, ponas  Vilsonai. Prašau rytoj kreiptis į  registratūrą iki 14 val. Kitaip mes negarantuojame Jums kambario.","Aš užrišau, ponas Vilsonai. Prašau rytoj kreiptis į registratūrą iki 14 val. Kitap mes negarantuojame Jus kambario.",58.45374263757147,80.04940936491896,0.32291802763938904
+184,Thank  you; good-bye.,"Ačiū, viso gero.","Ačiū, viso gero.",58.45374263757147,80.04940936491896,1.3259685039520264
+185,A telegram; reading a message.,Telegramos  perskaitymas,Telegramos perskaita,58.45374263757147,80.04940936491896,1.249066710472107
+186,Here  is a telegram for you.,Čia yra telegrama Jums.,Čia yra telegrama Jums.,58.45374263757147,80.04940936491896,1.3288793563842773
+187,For  me? How strange. Who sent it?,Man?  Keista. Nuo ko?,Keista. Nuo ko?,58.45374263757147,80.04940936491896,1.3159716129302979
+188,How  should I know? Open it and read it!,Aš nežinau. Atidaryk ir perskaityk!,Aš nežinau. Atidaryk ir perskaityk!,58.45374263757147,80.04940936491896,1.3271148204803467
+189,Arrive  one day later - stop -please stay in Berlin - stop - sightseing perhaps? - stop - See you  later - stop - Peter H.,Atvykstu viena diena vėliau - taškas - pasilik Berlyne - taškas  - gal pasižvalgyk mieste - taškas - Pasimatysime - taškas - Peter H.,Atvykstu viena diena vėliau - taskas - tasilik Berlyne - taskas - gal pasižvalgyk mieste - taskas - pasimatysime - taskas - Peter H.,58.45374263757147,80.04940936491896,0.6124343872070312
+190,"Well,  are you staying?","Taigi,  pasilieki?","Taigi, pasilieki?",58.45374263757147,80.04940936491896,1.3275794982910156
+191,Of  course I am!,"Na, žinoma!","Na, žinoma!",58.45374263757147,80.04940936491896,1.327373743057251
+192,Another  message...Reading a bizarre message.,Dar viena žinutė,Dar viena žiurė,58.45374263757147,80.04940936491896,0.6268078088760376
+193,Have a  listen:  Do I come? - or do you come? Over the weekend or on Friday? In the castle or in the court  gardens? Where shall we meet?,"Klausyk,  aš atvykstu ar Tu atvyksti? Savaitgalyje ar penktadienį?  Pilyje ar pilies sode? Kur susitinkame?","Klausyk, aš esu atvykstu ar Tu atvyksti? Savaitgalyje ar penktadienyje? Pilyje ar pilies sode? Kur susiinkame?",58.45374263757147,80.04940936491896,1.004218339920044
+194,Who's sent  that then?,Kas tai siunčia?,Kas tai siunčia?,58.45374263757147,80.04940936491896,1.3271620273590088
+195,"I don't  know,  no idea. Perhaps a ghostwriter?",Neįsivaizduoju. Gal dvasia?,Neįsivaizduojama. Gal dvasia?,58.45374263757147,80.04940936491896,1.257298231124878
+196,Very  strange!,Labai keista!,Labai keista!,58.45374263757147,80.04940936491896,1.3309415578842163
+197,Exactly as in  a thriller.,Kaip  detektyve.,Kaip detektyvas.,58.45374263757147,80.04940936491896,1.288934588432312
+198,There's no  parking here!,Čia  mašinas statyti draudžiama.,Čia mašinas statyti draudžiama.,58.45374263757147,80.04940936491896,1.3235937356948853
+199,I didn't know  that. I will drive off immediatly.,Aš  nežinojau. Aš tuoj pat išvažiuosiu.,Aš nežinojau. Aš tavoj pat išvažiuoju.,58.45374263757147,80.04940936491896,0.38333383202552795
+200,On weekends you  can park here.,Savaitgaliais  galima.,Savaitgaliai galima.,58.45374263757147,80.04940936491896,1.2903070449829102
+201,And what day is  it today?,O kokia  šiandien diena?,O kokia šiandien diena?,58.45374263757147,80.04940936491896,1.3273729085922241
+202,Today is  Wednesday.,Trečiadienis.,Trečiadienis.,58.45374263757147,80.04940936491896,1.326935052871704
+203,Wha t a  pity! But  I can't wait for 2 days!,Gaila. Bet aš  negaliu dvi dienas laukti.,Gaila. Bet aš negaliu dvi dieni laukti.,58.45374263757147,80.04940936491896,1.3119432926177979
+204,And you are not  allowed to do so either!,"Gaila,  bet niekuo negaliu padėti.","Gaila, bet niekuo negaliu padėti.",58.45374263757147,80.04940936491896,1.3175055980682373
+205,Enquiring about public transport,Paklausti apie viešąjį transportą,Pakeliamas apie vie<unk> j<unk> transportas,58.45374263757147,80.04940936491896,-1.352533221244812
+206,Where  do you want to go?,Kur Jūs norėtumėte nueiti?,Kur Jūs norėtutė nueiti?,58.45374263757147,80.04940936491896,1.2086907625198364
+207,To  the castle please.,Į pilį.,Įpilti.,58.45374263757147,80.04940936491896,-0.35113248229026794
+208,By  tube or bus?,Metro ar autobusu?,Metro ar autobusu?,58.45374263757147,80.04940936491896,1.3250536918640137
+209,Which  is the best?,O kaip geriau?,O kaip geriau?,58.45374263757147,80.04940936491896,1.323526382446289
+210,"By  tube it's faster, but the bus is cheaper.","Metro  - greičiau, o autobusu - pigiau.","Metro - greičiau, o autobusu - pigiau.",58.45374263757147,80.04940936491896,1.3270182609558105
+211,I'll  take the bus.,Tada autobusu.,Tadas autobusu.,58.45374263757147,80.04940936491896,1.1917554140090942
+212,Which  number (bus) is it please?,Kuris autobusas?,Kuris autobusą?,58.45374263757147,80.04940936491896,1.038071870803833
+213,Number  48; it goes directly to the castle.,48 numeris važiuoja  tiesiai prie pilies.,48 numeris važiuoja tiesiai prie pilies.,58.45374263757147,80.04940936491896,1.323279857635498
+214,Where  is the stop?,Kur sustojimas?,Kur sustojimas?,58.45374263757147,80.04940936491896,1.3284646272659302
+215,"The  stop is right here, at the corner, on tie right hand side.","Sustojimas čia pat, už kampo, dešinėje pusėje.","Sustojimas čia pat, už kampo, dešinėje pusėje.",58.45374263757147,80.04940936491896,1.3156816959381104
+216,"Oi the right, yes of cource, I almost forgot about that.",Dešinėje? Aš visai užmiršau.,Aš visau užmiršau.,58.45374263757147,80.04940936491896,-0.1862068921327591
+217,Many thanks.,Didelis ačiū.,Didelis ačiū.,58.45374263757147,80.04940936491896,1.3294010162353516
+218,You're welcome.,Nėr už ką.,Nėr už ką.,58.45374263757147,80.04940936491896,1.3229984045028687
+219,Describing  an accident,Avarija,Avarija,58.45374263757147,80.04940936491896,1.3282074928283691
+220,What was that?,Kas atsitiko?,Kas pasitiko?,58.45374263757147,80.04940936491896,0.6970081925392151
+221,"An accident,  in Kantstrasse.",Avarija Kanto gatvėje.,Avarija Kanto gatvėje.,58.45374263757147,80.04940936491896,1.3296401500701904
+222,How did it happen?,Kaip tai  buvo?,Kaip tai buvo?,58.45374263757147,80.04940936491896,1.3273861408233643
+223,The traffic  lights at the crossing are not working. Three cars have collided.,Šviesoforas kryžkelėje nedirba. Susidūrė trys  automobiliai.,Šviesoforas kryžkelėje nedirba. Susidūrė išbando automobilius.,58.45374263757147,80.04940936491896,0.43169349431991577
+224,Is somebody injured?,Ar kas nors sužeistas?,Ar kas nors sužaisti?,58.45374263757147,80.04940936491896,0.668115496635437
+225,"Yes, two  drivers are badly injured' the other passengers only slightly, thank goodness.","Taip, du vairuotojai sunkiai sužeisti, ačiū Dievui - kiti nesunkiai.","Taip, du vairuotojai sužaisti, ačiū Dievui - kiti nesunkiai.",58.45374263757147,80.04940936491896,1.0241663455963135
+226,Whenn did it  happen then?,Kada tai  atsitiko?,Kada tai atsitiko?,58.45374263757147,80.04940936491896,1.3294440507888794
+227,Ten minutes  ago. Somebody rang the ambulance.,Prieš dešimt minučių. Kažkas iškvietė greitąją.,Prieš dešimt minučių. Kažkas išvežioja greitąją.,58.45374263757147,80.04940936491896,0.6334116458892822
+228,It will be  here soon.,Ji greitai  atvyks.,Ji greitai atvyks.,58.45374263757147,80.04940936491896,1.324814796447754
+229,"I hope so. The  traffic looks like chaos, don't you think?","Tikėkimės. Toks didelis judėjimas, ar ne?","Tikėkimės. Toks didelis judėjimas, ar ne?",58.45374263757147,80.04940936491896,1.3204230070114136
+230,Difficulties  on the phone (to complain about an order,Apie  nesusipratimus telefonu,Apie nesusipratimus telefonu,58.45374263757147,80.04940936491896,1.3255864381790161
+231,"Sauer & Co., hello.","Alio, Sauer  & Co.","Alio, Sauer & Co.",58.45374263757147,80.04940936491896,1.2816474437713623
+232,Good morning.  Becker fashions. We received your parcels this morning.,Labas rytas. Bekerio mados. Šiandien gavome Jūsų siuntinį.,Labas rytas. Bekerio mados. Šiandienos gavome,58.45374263757147,80.04940936491896,0.39653480052948
+233,Which parcel  are you talking about?,Apie kurį siuntinį Jūs kalbate?,Apie kurį siuntinį jūs kalbate?,58.45374263757147,80.04940936491896,1.32344388961792
+234,The delivery  of socks.,Siuntinys su kojinėmis.,Siuntinys su kojinėmis.,58.45374263757147,80.04940936491896,1.3277307748794556
+235,Now I remember. Good.,Prisimenu.,Prisimenu.,58.45374263757147,80.04940936491896,1.3293834924697876
+236,I'm pleased.,"Gerai, kad  gavote.","Gerai, kad gavote.",58.45374263757147,80.04940936491896,1.3257312774658203
+237,"No, not good  at all.",Visai ne  gerai.,Visai ne gerai.,58.45374263757147,80.04940936491896,1.3275046348571777
+238,There are as  many as 300 pairs of grey socks.,Jame 300 porų pilkų kojinių.,Jame 300 porų pilkų kojinų.,58.45374263757147,80.04940936491896,1.3219294548034668
+239,That's right.,Teisingai.,Teisingai.,58.45374263757147,80.04940936491896,1.329115629196167
+240,"No, it's not  right. Miss...","Ne,  neteisingai, panele...","Ne, neteisingai, panele...",58.45374263757147,80.04940936491896,1.3268917798995972
+241,"Mrs., if you  please, Mrs. Ernst.",Ponia...  Ponia Ernst.,Ponia... Ponia Ernst.,58.45374263757147,80.04940936491896,1.3208394050598145
+242,"Mrs. Ernst, we  didn't actually order 300 pairs of grey socks.","Ponia Ernst, mes iš tikrųjų neužsakėme 300 porų pilkų kojinių.","Ponia Ernst, aš esu tikrų neužsakymas 300 porų pilkų kojinių.",58.45374263757147,80.04940936491896,0.05617912858724594
+243,"Oh, yes, you  did. I've got it here in the books.",Užsakėte. Aš matau knygoje.,Užsakyta iš anksto Aš matau knygoje.,58.45374263757147,80.04940936491896,0.6356247067451477
+244,"Mrs. Ernst,  something must be wrong there. We ordered 30 pairs of grey socks, not 300.","Ponia Ernst, kažkas čia negerai. Mes užsakėme 30 porų pilkų kojinių, o  ne 300.","Ponia Ernst, kažkas čia negerai. Mes užsakinėjame 30 porų pilkų kojinių, o ne 300.",58.45374263757147,80.04940936491896,1.2901504039764404
+245,Not 300 then?,Ne 300?,Ne 300?,58.45374263757147,80.04940936491896,1.3257222175598145
+246,"Oh well, send  those you don't want back to us.","Ach, išsiųskite mums, jeigu Jūs jų nenorite.","Ach, išsioskite mums, jeigu Jūsų nenorite.",58.45374263757147,80.04940936491896,0.6589245200157166
+247,Goodbye.,Viso gero.,Viso gero.,58.45374263757147,80.04940936491896,1.324122428894043
+248,"I don't know  what to say, but what I can do?","Aš tiesiog nežinau, ką pasakyti. Bet ką aš galiu padaryti?",Iš čia svečiai gali mėgautis lengvu susisiekimu.,58.45374263757147,80.04940936491896,-1.3156436681747437
+249,A meeting  on the plane,Susitikimas lėktuve,Susitikimas lėkštuve,58.45374263757147,80.04940936491896,-0.2862060070037842
+250,"Hello, Mrs Schmidt.","Sveika, ponia  Šmidt.","Šveika, Ponia Šmidt.",58.45374263757147,80.04940936491896,0.2851298451423645
+251,What a  surprise to meet you here on the plane!,Koks netikėtumas Jus čia lėktuve sutikti!,<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>,58.45374263757147,80.04940936491896,-1.7512364387512207
+252,Yes. Isn't it?,Tikrai?,Tikrai?,58.45374263757147,80.04940936491896,1.3296053409576416
+253,How are you?,Kaip sekasi?,Kaip sekasi?,58.45374263757147,80.04940936491896,1.3267902135849
+254,"I'm fine  thanks, and how are you?","Puikiai, o  Jums?","Puikiai, o Jusai?",58.45374263757147,80.04940936491896,1.0294691324234009
+255,Where are you  going to?,Kur Jūs vykstate?,Kur Jūs vykstate?,58.45374263757147,80.04940936491896,1.3264288902282715
+256,I'm going to  visit my son. He is living in Switzerland now. And what about you?,Ruošiuosi aplankyti savo sūnų. Jis gyvena Šveicarijoje. O Jūs?,Ruošiuosi aplaistytos savo sūnų. Jis gyvena Šveicarijuje. O mes?,58.45374263757147,80.04940936491896,-0.21107414364814758
+257,I'm on  business again. I often fly on this route.,Aš vėl komandiruotėje. Aš dažnai skrendu šiuo maršrutu.,Aš esu čia. Aš esu čia. Aš esu čia.,58.45374263757147,80.04940936491896,-1.476747751235962
+258,I see. How  often then?,Matau. Kaip dažnai?,"Matau, kaip dažnai?",58.45374263757147,80.04940936491896,1.2992842197418213
+259,About 2-3  times per month.,Maždaug tris kartus per mėnesį,Maždaug tris kartus per mėnesį,58.45374263757147,80.04940936491896,1.3286938667297363
+260,I'm only  flying for the second time today!,O aš skrendu šiandien antrą kartą!,Iš čia svečiai gali mėgautis lengvumu!,58.45374263757147,80.04940936491896,-1.0537548065185547
+261,No wonder that  we don't meet more then!,"Ne nuostabu, kad mes ne dažnai susitinkame!","Ne nuostabu, kad mes ne dažnai susitinkame!",58.45374263757147,80.04940936491896,1.3239328861236572
+262,Talking  about interests,Pokalbis apie pomėgius,Pokalbis apie pomėgį,58.45374263757147,80.04940936491896,1.264923095703125
+263,What are you  interested in?,Kuo Jūs domitės?,Kuo Jus domitės?,58.45374263757147,80.04940936491896,1.2735888957977295
+264,That depends.  I'm interested in many things.,Kaip čia pasakius? Aš domiuosi daugeliu dalykų.,Kaip čia pasakius? Aš domiesi daugeliukų.,58.45374263757147,80.04940936491896,0.12673987448215485
+265,Are you  interested in art?,Ar Jūs domitės menu?,Ar Jūsų namų meniu?,58.45374263757147,80.04940936491896,-1.0990461111068726
+266,What kind of  art do you mean?,Žiūrint ką Jūs turite galvoje?,Žiūrėti ką Jūs turit gale?,58.45374263757147,80.04940936491896,-0.805057942867279
+267,Paintings.,Tapybą.,Tapybą.,58.45374263757147,80.04940936491896,1.3259066343307495
+268,"Oh yes, I'm  very interested in paintings.",O taip. Man  patinka tapyba.,Man patinka tapyba.,58.45374263757147,80.04940936491896,1.2564454078674316
+269,What kind of  paintings are you particularly interested in?,Kokia tapybos rūšimi Jūs daugiausiai domitės?,Kokia tapybos rūšimi Jus daugių domitės?,58.45374263757147,80.04940936491896,0.4714927077293396
+270,Expressionist  paintings like the ones by Kandinsky and Schmidt-Rotluf for  example. I like both very much.,"Ekspresionistai, pavyzdžiui tokie kaip Kandinskis ir  Šmidt-Rotlufas. Aš juos abu mėgstu.","Ekspresionistai, pavyzdžiui tokie kaip Kandinskis ir Šmidt-Rotlufas. Aš juos abu mėgstu.",58.45374263757147,80.04940936491896,1.302464246749878
+271,So you are  only interested in modern art?,"Taigi, Jūs domitės tik moderniu menu?","Taigi, Jūsų namų tik modernų meniu?",58.45374263757147,80.04940936491896,-0.5750064253807068
+272,"No, I'm also  interested in the impressionists, but not as much.","O ne. Man  patinka ir impresionistai, nors ne perdaug.","Man patinka ir impresionistai, nors ne perdaug.",58.45374263757147,80.04940936491896,1.122470498085022
+273,"I 'm not  interested in paintings at all, only in photography.",O man visai  nepatinka tapyba. Aš domiuosi fotografija.,O vyras visai nepatinka tapyba. Aš domiesi fotografija.,58.45374263757147,80.04940936491896,1.0558770895004272
+274,Talking  about the weather,Pokalbis apie orą,Pokalbis apie,58.45374263757147,80.04940936491896,0.182661235332489
+275,Do you know  what the weather is going to be like?,"Ar žinote, koks bus oras?","Ar žinote, koks bus oras?",58.45374263757147,80.04940936491896,1.327305555343628
+276,"Yes, I happen  to know it; I've seen the weather report.","Taip, atsitiktinai perskaičiau orų prognozę.","Taip, atsitiktinai persikaičiau orų prognozė.",58.45374263757147,80.04940936491896,0.3684561550617218
+277,What's the  weather like in London?,Koks bus oras  Londone?,Koks autobusas iš Londono?,58.45374263757147,80.04940936491896,0.09848078340291977
+278,In London  it's cool; but it's going to improve.,"Bus vėsu, bet žada pasitaisyti.","Bus vėsu, bet žada pasitaikys.",58.45374263757147,80.04940936491896,0.887923002243042
+279,And what's  the weather in Berlin going to be like?,O koks bus  oras Berlyne?,O koks autobusas ar Berlyne?,58.45374263757147,80.04940936491896,0.5696484446525574
+280,"Here it's  going to stay warm, just as yeterday. Here it's going to be a lovely  summer.","Ž  ada būti  saulėtas ir šiltas, toks kaip vakar. Puiki vasara!",<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>,58.45374263757147,80.04940936491896,-2.125120162963867
+281,You are quite  right.,Jūs teisus.,Mes teisūs.,58.45374263757147,80.04940936491896,1.240941047668457
+282,It's fairly  warm already.,Jau net dabar  šilta.,Dau net dabar šilta.,58.45374263757147,80.04940936491896,0.20139379799365997
+283,"According to  the report, we will get as much as 30o centigrade today.",Pagal prognozę bus šiandien 30  o šilumos.,Pagal prognozę autobusų šindien 30 o šilumos.,58.45374263757147,80.04940936491896,-0.006832771003246307
+284,Do  you like it?(To express likes),Ar  Jums patinka?,Ar Jums patinka?,58.45374263757147,80.04940936491896,1.323537826538086
+285,Do you like  Berlin?,Ar patinka  Jums Berlynas?,Ar patinka Jus Berlynas?,58.45374263757147,80.04940936491896,1.310526728630066
+286,"Oh, yes very  much.","Taip, labai  patinka.","Taip, labas patinka.",58.45374263757147,80.04940936491896,0.8837990164756775
+287,What do you  like best?,O kas  daugiausiai patinka?,O kas daugiaus patinka?,58.45374263757147,80.04940936491896,0.8712607026100159
+288,I like the  National Gallery and Schloss Charlottenburg best.,Daugiausiai Nacionalinė galerija ir Šarlotenburgo pilis.,Daugių nacionalinė galerija ir Šarlotenburgo pilis.,58.45374263757147,80.04940936491896,0.4943504333496094
+289,But also like  the Court Gardens.,Taip pat  patinka pilies sodas.,Taip pat pat patinka pilies sodos.,58.45374263757147,80.04940936491896,1.3079617023468018
+290,Would you like  to live in Berlin?,Ar norėtumėte gyventi Berlyne?,Ar norėtutėte giventi Berlyne?,58.45374263757147,80.04940936491896,-0.436282753944397
+291,"Oh  yes, that  would be good. I would speak German a lot better then.",Tai būtų puiku. Aš geriau kalbėčiau vokiškai.,Tai ūsų puiku. Aš geriau kalbėčiau vokiškai.,58.45374263757147,80.04940936491896,0.10532940179109573
+292,Where do you  live then?,Kur Jūs gyvenate?,Kur mes gyvenate?,58.45374263757147,80.04940936491896,0.9093083739280701
+293,"I live in  London, and you?","Aš gyvenu Londone, o Jūs?","Aš givenu Londone, o jūs?",58.45374263757147,80.04940936491896,-0.21988241374492645
+294,"I have been  living here in the ""Spreemetropolis' for the past 40 years. I'm a genuine Berliner.",Aš gyvenu čia Šprimetropolyje jau keturis metus. Esu tikras  berlynietis.,Aš givenu čia Šprimetropolyje jau keturis metus. Esu tikras berlynietis.,58.45374263757147,80.04940936491896,1.2535407543182373
+295,To  discuss methods of payment,Apie mokėjimo būdus,Apie Mokomąjį Būdą,58.45374263757147,80.04940936491896,-0.20089705288410187
+296,That comes to  125 marks 50.,Tai bus 125 markės ir 50.,Tai autobusas 125 markės ir 50.,58.45374263757147,80.04940936491896,0.4375697374343872
+297,"I haven't got  that much on me, sorry.","Gaila, prie savęs aš neturiu tiek daug.","Gaila, prie savos aš neturiu tiek daug.",58.45374263757147,80.04940936491896,0.7249321341514587
+298,That doesn't  matter. You can pay by credit card.,Tai nieko. Jūs galite mokėti kreditine kortele.,Tai nieko. Jūs galit<unk> mok<unk> ti kreditine kortele.,58.45374263757147,80.04940936491896,0.017618732526898384
+299,Do you also  take cheques?,O ar galiu čekiais?,O gal ir čekiai?,58.45374263757147,80.04940936491896,-0.7996141910552979
+300,"Yes, if you  have a valid cheque card (on you).","Taip, jeigu  jie galiojantys.","Taip, jeigu jie galiojantys.",58.45374263757147,80.04940936491896,1.3214575052261353
+301,"Yes, of course.","Taip, žinoma.","Taip, žinoma.",58.45374263757147,80.04940936491896,1.3270665407180786
+302,All right  then. Please make the cheque payable to Zille and Co.,Gerai. Išrašykite tada čekį Ciles ir Ko vardu.,Gerai. Išrašikite tada čekį Ciles ir Ko vardu.,58.45374263757147,80.04940936491896,1.2832061052322388
+303,And here is  my cheques card.,"Štai čekis, prašau.","Štai čekis, prašau.",58.45374263757147,80.04940936491896,1.3234446048736572
+304,"Ah,  see, you  are English? You speak German very well.","Ach, Jūs anglas? Bet Jūs kalbate puikiai vokiškai.","Ach, Jūs anglas? Bet Jūs kalbate puikiai vokiškai.",58.45374263757147,80.04940936491896,1.3024752140045166
+305,Congratulations!,Sveikinu!,Sveikinu!,58.45374263757147,80.04940936491896,1.3276746273040771
+306,Thank you  very much.,Ačiū.,Ačiū.,58.45374263757147,80.04940936491896,1.323038101196289
+307,To  express quality,Apie dovanas (kokybė),Apie dovanas (kokybė),58.45374263757147,80.04940936491896,1.325952410697937
+308,Have a look at  the present I bought.,"Pažiūrėk, kokią dovaną aš nupirkau.","Pažiūrėk, kokią dovaną aš nupirkau.",58.45374263757147,80.04940936491896,1.3255774974822998
+309,"Oh, a  wallet,  made of leather.","O, piniginė, ir odinė.","O, piniginė, ir odinė.",58.45374263757147,80.04940936491896,1.318662166595459
+310,Who is it  for.,Kam tai?,Kam tai?,58.45374263757147,80.04940936491896,1.3274211883544922
+311,"For  Max, for  his birthday.","Maksui, jo  gimtadienis.","Maksui, jo gimtadienis.",58.45374263757147,80.04940936491896,1.3258639574050903
+312,I bought a  spectacle case made from a nice piece of cloth for him; and from his girlfriend he is  getting a genuine silver ring.,O aš nupirkau jam dėklą akiniams iš gražios medžiagos o nuo  savo mergaitės jis gaus tikrą sidabrinį žiedą.,O aš nupirkau uogiene drėkinti akiniams išgraužti mediagos o nuo savo mergaitės jis gaus tikrą sidabrinę žiedę.,58.45374263757147,80.04940936491896,-0.49196964502334595
+313,Really?,Tikrai?,Tikrai?,58.45374263757147,80.04940936491896,1.3302218914031982
+314,"Yes, made of  real silver.","Taip, tikrą sidabrinį.","Taip, tikrą sidabrinę.",58.45374263757147,80.04940936491896,1.301822543144226
+315,He is well off  this year.,Jam sekasi  šiemet.,Jam sekasi šiemet.,58.45374263757147,80.04940936491896,1.3254778385162354
+316,To  describe a person,Apibūdinti asmenį,Apibudinti asmenis,58.45374263757147,80.04940936491896,0.11202181130647659
+317,Could you  please meet my uncle at 12.57?,Ar negalėtum 12.57 sutikti mano dėdę?,Ar negalėtum 12.57 sutikti mano dieną?,58.45374263757147,80.04940936491896,0.4878498315811157
+318,I'm  busy.,Aš neturiu  laiko.,Aš neturiu laiko.,58.45374263757147,80.04940936491896,1.3209497928619385
+319,"From the  station, you mean?","Turi galvoje,  nuo stoties?","Turi galvoje, nuo stoties?",58.45374263757147,80.04940936491896,1.323700189590454
+320,"Okay, what  does he look like?","Na gerai, o  kaip jis atrodo?","Na gerai, o kaip jis atrodo?",58.45374263757147,80.04940936491896,1.3249915838241577
+321,"He is very  tall, about 6', and he's rather fat.","Jis labai  aukštas, apie 1,8 m, ir pilnas","Jis labai aukštas, apie 1,8 m, ir pilkas",58.45374263757147,80.04940936491896,0.7912293076515198
+322,Does he wear  glasses?,Ar jis  nešioja akinius?,Ar jis nešioja akinius?,58.45374263757147,80.04940936491896,1.3261232376098633
+323,"Yes, and he is  always very elegantly dressed. Most of the time in a dark suit, and he is always carrying  a briefcase.","Taip, jis visada apsirengęs elegantiškai. Dažniausiai tamsiu  kostiumu, visada su portfeliu.","Taip, jis visada apsirengęs elegantiškus. Dažniaus tamsiu kostiumu, visada su portfeliu.",58.45374263757147,80.04940936491896,0.918178141117096
+324,There are  hundreds of those types. What's his name then?,Tokių šimtai. Koks gi jo vardas ir pavardė?,Tokių šimtai. Koks gi jo vardas ir pavardė?,58.45374263757147,80.04940936491896,1.3219306468963623
+325,"Heinrich  Meier, the same as me.","Henrikas  Mejeris, kaip ir aš.","Henrikas Mejeris, kaip ir aš.",58.45374263757147,80.04940936491896,1.3260455131530762
+326,Get  well wishes,Palinkkėimai pasveikti.,Palinkėjimai pasveikti.,58.45374263757147,80.04940936491896,1.3008782863616943
+327,Have you  anything planned for today?,Ar ką nors šiandien planavai?,Ar ką nors šiandien planavai?,58.45374263757147,80.04940936491896,1.3287146091461182
+328,"Yes, I have to  go to the hospital.","Taip, turiu nueiti į ligoninę.","Taip, turi nueiti į ligoninę.",58.45374263757147,80.04940936491896,1.288557529449463
+329,"Oh, what's  hapenned then?",O kas  atsitiko?,O kas atsitiko?,58.45374263757147,80.04940936491896,1.329636812210083
+330,My granndad is  in hospital.,Mano senelis ligoninėje.,Mano senelis ligoninėje.,58.45374263757147,80.04940936491896,1.3280925750732422
+331,I'm going to  visit him,Norėčiau jį aplankyti.,"Norėčiau, kad būtų aišku.",58.45374263757147,80.04940936491896,-0.8374294638633728
+332,"He's had an  accident, you know.","Tu gi žinai, jis buvo papuolęs į avariją.","Tu gi žynai, jis buvo papuolęs į avariją.",58.45374263757147,80.04940936491896,0.7702150344848633
+333,"Oh,  dear, how  is he then?",O kaip jis  dabar?,O kaip jis dabar?,58.45374263757147,80.04940936491896,1.3238810300827026
+334,"He's better  now, thank goodness.","Ačiū Dievui, dabar jaučiasi geriau.","Ačiū Dievui, dabar jaučiasi gerau.",58.45374263757147,80.04940936491896,1.3214341402053833
+335,"He has had a  car accident, you know,","Tai buvo automobilio avarija, tu žinai.","Tai buvo automobilio avarija, tu žiureti.",58.45374263757147,80.04940936491896,0.6224522590637207
+336,"Well, when I  think of it, I feel sort of queasy.(lit.)","Kai aš apie  tai galvoju, man tiesiog bloga.","Kai aš apie tai galvoju, vyras tieciog bloga.",58.45374263757147,80.04940936491896,0.12923213839530945
+337,"I'm sorry for  him. He meant to fly to Zurich, didn't he?","Man gaila. Jis norėjo į Ciuriką skrįsti, ar ne?","Man gaila. Jis norėjo į Ciuriką skrįsti, ar ne?",58.45374263757147,80.04940936491896,1.3200604915618896
+338,Yes today  (exactly). He was really unfortunate.,"Tiksliai,  šiandien. Jam tiesiog nepasisekė.","Tiksliai, šiandiena. Jam tiesiog nepasisekė.",58.45374263757147,80.04940936491896,1.2699965238571167
+339,Ich wish him a  speedy recovery.,Linkiu jam kuo greičiau pasveikti.,Linkiu jam kuo greičiau pasveikti.,58.45374263757147,80.04940936491896,1.3285112380981445
+340,Thanks. Bye  for now.,Ačiū. Kol kas.,Ačiū. Kol kas.,58.45374263757147,80.04940936491896,1.3275707960128784
+341,Cheers.,Iki.,Iki.,58.45374263757147,80.04940936491896,1.3260854482650757
+342,The  mysterious briefcase,Paslaptingas  portfelis,Paslaptingo portfelis,58.45374263757147,80.04940936491896,1.3070913553237915
+343,"Well,  Mrs. B.  I say, your briefcase looks very smart.","O, ponas B., Jūsų portfelis atrodo labai įdomiai.","O, ponas B., Jūsų portelis atrodo labi įdomiai.",58.45374263757147,80.04940936491896,0.5346062183380127
+344,What have you  got in it?,Ką Jūs ten turite?,Ką jūs ten turit?,58.45374263757147,80.04940936491896,1.2614496946334839
+345,"I don't know  myself, actually.",Aš iš tikrųjų pats nežinau.,Iš čia svečiai gali mėgautis lengvu susisiekimu.,58.45374263757147,80.04940936491896,-1.2731682062149048
+346,What? Do you  mean that you don't know what's in your case?,"Ką? Jūs sakote, kad pats nežinote, ką turite portfelyje?","Ką? Jūs sakote, kad paats nežinote, ką turit portlelyje?",58.45374263757147,80.04940936491896,0.4489275813102722
+347,That's what I  said.,"Taip, kaip girdėjote.","Taip, kaip girdėjote.",58.45374263757147,80.04940936491896,1.3223400115966797
+348,Don't you want  to know it?,Ir nenorite žinoti?,Ir nenorite žinių?,58.45374263757147,80.04940936491896,1.2662259340286255
+349,Of course I do.,"Žinoma, noriu.","Žinoma, noriu.",58.45374263757147,80.04940936491896,1.3235846757888794
+350,Then I would  certainly feel better.,Jausčiausi tada geriau.,Jausčiausi tada gerau.,58.45374263757147,80.04940936491896,1.3184940814971924
+351,Why don't you  have a look then?,Tai kodėl tada nepažiūrite?,Tai kodėl tada nepažiūrite?,58.45374263757147,80.04940936491896,1.328486442565918
+352,"Okay then;  here, look for yourself.","Gerai,  pažiūrėk pats.","Gerai, pažiūlėk pats.",58.45374263757147,80.04940936491896,1.2977294921875
+353,"Only papers,  nothing but papers.","Nieko, tik  popieriai.","Nieko, tik popieriai.",58.45374263757147,80.04940936491896,1.3278497457504272
+354,Are you  feeling better now?,Ar dabar Jums  geriau?,Ar Dabaras Jusas Geriau?,58.45374263757147,80.04940936491896,-0.5083032250404358
+355,"At a  Party,  talking about a family.","Vakarėlyje,  apie šeimą","Vakarėlyje, apie šeimą",58.45374263757147,80.04940936491896,1.3258941173553467
+356,We haven't seen  each other for ages. How are your children?,Šimtą  metų nesimatėme. Kaip Jūsų vaikai?,Šimtos metų nesimateme. Kaip Jūsų vaikams?,58.45374263757147,80.04940936491896,0.5193273425102234
+357,"You have got  two,  haven't you?","Jūs  turite du, ar ne?","Jūs turite du, ar ne?",58.45374263757147,80.04940936491896,1.3213746547698975
+358,That's  right.  Since we last met my daughter has married.,"Taip.  Nuo to laiko, kai buvome susitikę, mano duktė ištekėjo.","Taip. Nuo iki laiko, kai buvome susitikę, mano duktė ištekėjo.",58.45374263757147,80.04940936491896,1.0604498386383057
+359,"Your daughter is  a doctor, isn't she?","Jūsų  duktė gydytoja, ar ne?","<unk> <unk> <unk> <unk> <unk> , ar ne?",58.45374263757147,80.04940936491896,-1.468273401260376
+360,"No, my wife is a  doctor.","Ne,  mano žmona yra gydytoja.","Ne, mano žmona yra gydytoja.",58.45374263757147,80.04940936491896,1.3289744853973389
+361,"My daughter is  still at university, and my son as well.","Mano  duktė dar studijuoja universitete, taip pat ir sūnus.","Mano duktė dar studentas universitete, taip pat ir sunus.",58.45374263757147,80.04940936491896,0.8361569046974182
+362,What do they  study then?,Ką jie  studijuoja?,Ką jie studijuoja?,58.45374263757147,80.04940936491896,1.3245148658752441
+363,Both the same  subject.,Abu  tą patį dalyką.,Abu ta pati patalynė.,58.45374263757147,80.04940936491896,-0.06062890589237213
+364,Business  management.,Vadybą.,Vadyba.,58.45374263757147,80.04940936491896,0.5378410220146179
+365,And your  children? What do they do?,O  Jūsų vaikai? Ką jie veikia?,O jūsų vaikams? Ką jie daro?,58.45374263757147,80.04940936491896,1.2308368682861328
+366,I have no  children.,Aš  neturiu vaikų.,Aš negrų vaikų.,58.45374263757147,80.04940936491896,-1.0388529300689697
+367,"I'm not  married, either.",Ir  nesu vedęs.,Ir nesu vedęs.,58.45374263757147,80.04940936491896,1.3243051767349243
+368,You must be  thinking of my sister.,Jūs  tikriausiai galvojate apie mano seserį?,Mes tikriausiai galvojate apie mano mano seserį?,58.45374263757147,80.04940936491896,0.47861629724502563
+369,She has two  children.,Ji turi du  vaikus.,Ji turi du vaikus.,58.45374263757147,80.04940936491896,1.328567624092102
+370,Holidays,Atostogos,Atostogos,58.45374263757147,80.04940936491896,1.3290767669677734
+371,How was your  holiday then?,Kaip Tavo  atostogos?,Kaip Tavo atostogos?,58.45374263757147,80.04940936491896,1.3273961544036865
+372,Great. We've been  to South Germany by car.,Puikiai.  Mes keliavome po pietinę Vokietiją automobiliu.,Puikiai. Mes keliavome po pietinės Vokietijos automobilių stovėjimo aikštelės.,58.45374263757147,80.04940936491896,0.40183955430984497
+373,I don't know  South Germany.,Aš  visai nežinau pietinės Vokietijos.,Aš visa nežinau pietinės Vokietijos.,58.45374263757147,80.04940936491896,1.2955772876739502
+374,"Oh, the area is  wonderful! Meadows, woods, mountains, mountain lakes. We loved it!","O,  vietos puikios! Pievos, miškai, kalnai, ir ežerai. Mums labai patiko.","O, vietos puikios! Pievos, miškai, kalnai, ir ežerai. Mums laboratorijos patiko.",58.45374263757147,80.04940936491896,0.9624773859977722
+375,What was the  weather like?,O koks buvo  oras?,O koks buvo oras?,58.45374263757147,80.04940936491896,1.3280357122421265
+376,We had 7 days  rain and 3 days of sunshine!,"Septynias  dienas lijo, o tris - švietė saulė!","septynias diena lijo, o tris - švitė saulė!",58.45374263757147,80.04940936491896,1.1396632194519043
+377,Plans for a  picnic. Making sugestions.,Iškylos  planavimas. Pasiūlymai.,Iškylos planas. Pasiūlymai.,58.45374263757147,80.04940936491896,-0.7991239428520203
+378,Are you  hungry?  Or not yet?,"Ar Tu jau  alkanas, ar dar ne?","Ar Tu jau alkanas, ar dar ne?",58.45374263757147,80.04940936491896,1.3232182264328003
+379,I'm hungry and  thirsty.,Aš  alkanas ir ištroškęs.,Aš alkanas ir ištroškęs.,58.45374263757147,80.04940936491896,1.326005220413208
+380,Shall we have our  picnic?,Ar jau  valgysime?,Ar jau valgysime?,58.45374263757147,80.04940936491896,1.326115369796753
+381,That's a great  idea. Where shall we have the picknic?,Tai  puiki mintis. Kur bus mūsų piknikas?,Tai puiki mintis. Kur bus mūsų piknikas?,58.45374263757147,80.04940936491896,1.3258112668991089
+382,I suggest in the  court gardens.,Siūlau  pilies sode.,Šiūlų piliakalnis sode.,58.45374263757147,80.04940936491896,0.09831040352582932
+383,"Yes, that's  grand. Afterwards we can go inside and have a look around. I would like to see the  porcelain collection.","O,  mes galime eiti į vidų ir apžiūrėti pilį. Aš norėčiau pamatyti porceliano  kolekciją.","O, mes galime eiti į vidu ir apžiūrėti pilį. Aš norečiau pamatyti porceliano kolekciją.",58.45374263757147,80.04940936491896,1.1504368782043457
+384,It's very  famous.  It contains all the original pieces from the 18th century.,"Ji  gana garsi. Visi daiktai originalūs, iš 18 amžiaus.","Ji gana garsi. Visi daitai originalūs, iš 18 amžiau.",58.45374263757147,80.04940936491896,0.9245928525924683
+385,I've heard about  that. I hope we won't break anything.,"Aš  girdėjau apie tai. Tikiuosi, mes jų nesudaužysime.","Aš esu čia. Aš esu čia, aš esu čia.",58.45374263757147,80.04940936491896,-1.5002413988113403
+386,Don't  worry! It's  all behind glass.,Nesijaudink! Jie  visi po stiklu.,Nesijaudink! Jie visi po stiklu.,58.45374263757147,80.04940936491896,1.3264796733856201
+387,Turning up late for an appointment,Vėlavimas  į susitikimą,Vėlavimas į susitikimą,58.45374263757147,80.04940936491896,1.32393217086792
+388,It's now twenty  past 12.,Jau  20 minučių po dvyliktos.,Jau 20 minučių po dvyliktos.,58.45374263757147,80.04940936491896,1.3040423393249512
+389,I had expected  you at 12.,Aš  Jūsų laukiau dvyliktą.,Aš esu Aš jūsų laukimas dvyliktą.,58.45374263757147,80.04940936491896,-0.2509118616580963
+390,But you are quite  out of breat!.,Bet  Jūs gi uždusęs!,Bet jūs gi uždusęs!,58.45374263757147,80.04940936491896,1.2889760732650757
+391,I'm sorry. I had  (really) bad luck. This is a black day for me.,"Atsiprašau, bet  man labai nesisekė. Nesėkminga diena.","Pasiprašau, lažinkis, labas nesisekė. Nesėkminga diena.",58.45374263757147,80.04940936491896,0.4530777633190155
+392,Everything went  wrong.,Viskas buvo  blogai.,Viskas buvo blogai.,58.45374263757147,80.04940936491896,1.3283125162124634
+393,What do you mean?,Ką Jūs turite galvoje?,Ką jūs turite galvoje?,58.45374263757147,80.04940936491896,1.3237210512161255
+394,"Well, the train  arrived late.","Nagi,  traukinys vėlavo.","Nagi, traukinys vėlavo.",58.45374263757147,80.04940936491896,1.327721118927002
+395,Then I couldn't  get a taxi; and besides the lift here isn't working either.,"Po  to negalėjau rasti taksi, be to čia ir liftas nedirba.","Po to negalėjau rasti taksi, be to, kad cia ir liftas nedirba.",58.45374263757147,80.04940936491896,1.2993899583816528
+396,I must say that's  really too bad. First get your breath back.,Tikrai blogai. Bet pirmiausia atgaukite kvapą. Atsisėskite.,Tikrai blogai. Bet pirmiausia atgaukite kvapą. Atsisėskite.,58.45374263757147,80.04940936491896,1.3215758800506592
+397,"Thanks. No  wonder, today is Friday the 13th.","Nieko  nuostabaus, šiandien vasario 13 diena.","Nieko nuostabaus, Šiandien vasario 13 diena.",58.45374263757147,80.04940936491896,1.3184126615524292
+398,To express  surprise and disbelief,Išreikšti  nustebimą ir netikėjimą,Ištvirkęs nustebimas ir netėjimas,58.45374263757147,80.04940936491896,0.3477613031864166
+399,I have a surprise  for you.,Turiu  Tau siurprizą.,Turiu Tau siurprizą.,58.45374263757147,80.04940936491896,1.329622507095337
+400,"What is it,  please do tell me!","Kas tai,  pasakyk.","Kas tai, pasakyk.",58.45374263757147,80.04940936491896,1.327836275100708
+401,Have a quess.,Spėk.,Spėk.,58.45374263757147,80.04940936491896,1.3267428874969482
+402,What could it be?  I have no idea.,Kas  tai galėtų būti. Neturiu supratimo.,Kas tai gali būti. Neturiu supratimo.,58.45374263757147,80.04940936491896,1.3228199481964111
+403,Imagine you had  won the pools.,"Įsivaizduokite,  išlošėte.","Įsivaizduokite, išlošėte.",58.45374263757147,80.04940936491896,1.3245457410812378
+404,What do you mean?,Ką  Jūs turite galvoje?,Ką jūs turite galvoje?,58.45374263757147,80.04940936491896,1.3237210512161255
+405,As I said: You  have won a huge amount of money.,Aš  gi pasakiau. Jūs laimėjote krūvą pinigų.,Aš gi pasakiau. Jūsų laimejote kruvą pinigų.,58.45374263757147,80.04940936491896,0.48753392696380615
+406,"What, me? Really?  How come?",Kas?  Aš? Iš tikrųjų? Kaip?,Kas? Aš? Aš tikrų? Kaip?,58.45374263757147,80.04940936491896,0.38698291778564453
+407,I don't know how  to say.,"Aš  nežinau, ką ir sakyti.","Aš nežinau, ką ir sakyti.",58.45374263757147,80.04940936491896,1.3199801445007324
+408,We schould have a  drink on that!,Turime išgerti.,Turime išgerti.,58.45374263757147,80.04940936491896,1.3277698755264282
+409,"Yes, of course.  I'll pay for it.",Žinoma.  Aš moku.,Aš moku.,58.45374263757147,80.04940936491896,-0.0267845056951046
+410,Enquiring  about a mystery (or good luck?),Paslaptis?,Paslapčios?,58.45374263757147,80.04940936491896,0.6753636598587036
+411,"Please  tell me inspector, why all these mysteries?","Pasakykite prašom, inspektoriau, kas čia per paslaptis?","Pasikeikimas prašom, inspektoru, kas čia per paslaptį?",58.45374263757147,80.04940936491896,0.453313946723938
+412,That  I will tell you: this Man has inherited a fortune and doesn't believe it.,"Aš galiu pasakyti, jam nusišypsojo laimė. Ir jis netiki.",Iš čia svečiai gali mėgautis lengvumu. Ir jis netiki.,58.45374263757147,80.04940936491896,-0.4213465452194214
+413,What  do you mean?,Ką Jūs turite galvoje?,Ką jūs turite galvoje?,58.45374263757147,80.04940936491896,1.3237210512161255
+414,He  just can't believe it.,Jis negali patikėti.,Jis negali patiekti.,58.45374263757147,80.04940936491896,-0.1216820701956749
+415,Did  he really inherit it?,Ar jis tikrai laimėjo?,Ar jis tikrai laimėjo?,58.45374263757147,80.04940936491896,1.324575424194336
+416,Are  you sure it's true?,"Ar Jūs tikras, tai tiesa?","Ar jūs tikras, tai tiesa?",58.45374263757147,80.04940936491896,1.3258483409881592
+417,They  are hardly any doubts.,Nėra jokios abejonės.,Nėra jokios abejonės.,58.45374263757147,80.04940936491896,1.3289124965667725
+418,What  do you mean by that?,Ką visa tai reiškia?,Ką visa tai reiškia?,58.45374263757147,80.04940936491896,1.3282893896102905
+419,I  don't believe it either! It's too good to be true!,Aš tikrai netikiu. Tai būtų per daug gerai.,Aš tikrinu netikiu. Tai būstų per daug gerų.,58.45374263757147,80.04940936491896,-0.6146189570426941
+420,Two  friends on holiday,Du  draugai atostogauja,Du draugai atostogauja,58.45374263757147,80.04940936491896,1.3294131755828857
+421,I  have to go to the bank and change money.,Aš turiu nueiti į banką ir pakeisti pinigus.,Aš turiu nueiti į banką ir pakeisti pinigus.,58.45374263757147,80.04940936491896,1.3260515928268433
+422,Let's  go together.,Eikime kartu.,Eikime karto.,58.45374263757147,80.04940936491896,1.1368870735168457
+423,I  need money as well.,Man  taip pat reikia pinigų.,Man taip pat reikia pinigų.,58.45374263757147,80.04940936491896,1.3280779123306274
+424,What's  the exchange rate today?,Koks  kursas šiandien?,Koks kursas šindien?,58.45374263757147,80.04940936491896,1.1924421787261963
+425,"Not  so favourable, but I haven't any more cash.","Ne  toks jau geras, bet aš nebeturiu grynųjų.","Ne toks jau geras, bet aš nebeturiu grinų.",58.45374263757147,80.04940936491896,0.17504766583442688
+426,Only  traveller's cheques.,Tik  kelioninius čekius.,Tik kelioninius čekius.,58.45374263757147,80.04940936491896,1.3258084058761597
+427,In  the restaurant opposite I've paid with my credit card.,"Restorane,  priešais, aš mokėjau kreditine kortele.","Restorane, priešais, aš mokau kreditine kortele.",58.45374263757147,80.04940936491896,1.2863507270812988
+428,That's  possible?,Ar  galima?,Ar galima?,58.45374263757147,80.04940936491896,1.3274545669555664
+429,What  is the food like there?,Kaip  ten valgis?,Kaip ten valgis?,58.45374263757147,80.04940936491896,1.3272855281829834
+430,I  found it very good.,Man  patiko.,Vyras patiko.,58.45374263757147,80.04940936491896,0.7396313548088074
+431,The  chef knows how to cook well.,Virėjas  moka virti.,Virėjas moka virti.,58.45374263757147,80.04940936491896,1.3267818689346313
+432,At the  bank,Banke,Banke,58.45374263757147,80.04940936491896,1.3237206935882568
+433,Would you please  change this 500 mark note into Swiss franks for me?,Iškeiskite  prašom 500 markių į šveicariškus frankus.,Iškeiskite prasom 500 markių į šveicariškus frankus.,58.45374263757147,80.04940936491896,0.9427811503410339
+434,Please go to the  foreign exchange counter.,Eikite  prašom prie užsienio valiutos keitimo langelio.,Eikite prašom prie užsienio valiutos maitinimo langelio.,58.45374263757147,80.04940936491896,1.2840313911437988
+435,Thank  you.,Ačiū.,Ačiū.,58.45374263757147,80.04940936491896,1.3265116214752197
+436,At the  foreign exchange counter,Prie  užsienio valiutos keitimo langelio,Prie užusienio valiutos keitimo langelio,58.45374263757147,80.04940936491896,-0.5359081029891968
+437,"I'd like Swiss  franks, for 500 marks please.",Norėčiau  šveicariškų frankų už 500 markių.,Norėčiau šveicariškų frankų už 500 markių.,58.45374263757147,80.04940936491896,1.3210676908493042
+438,Certainly. Here  is your money and your receipt.,Prašom.  Štai Jūsų pinigai ir kvitas.,Prašom. Štai Jūsų pinigai ir kvitas.,58.45374263757147,80.04940936491896,1.3256566524505615
+439,Could you also  give me Austrian shilings for 1000 marks please.,Duokite man  prašom dar Austrijos šilingų už 1000 markių?,Duokit man prašom dar Australijos šilingų už 1000 markių?,58.45374263757147,80.04940936491896,1.284602165222168
+440,Cash or  traveller's cheques?,Grynais  ar kelioniniais čekiais?,Grynai ar kelioniniai čekiai?,58.45374263757147,80.04940936491896,0.9283309578895569
+441,Cash  please.,Grynais  prašom.,Grybas prašom.,58.45374263757147,80.04940936491896,1.1073646545410156
+442,"In the  street, asking for help","Gatvėje,  prašant pagalbos","Gatvėje, prašant pagalbos",58.45374263757147,80.04940936491896,1.3270819187164307
+443,"Hello, Mrs  Becker. How are you?",Sveiki  p. Becker. Kaip laikotės?,Sveiki p. Becker. Kaip laikotes?,58.45374263757147,80.04940936491896,1.2974165678024292
+444,Fine.  Thanks.,Ahiū.  Gerai.,"Ahiū, Gerai.",58.45374263757147,80.04940936491896,1.3289337158203125
+445,How are  you?,O  kaip Jūs?,O kaip Jūs?,58.45374263757147,80.04940936491896,1.3261356353759766
+446,Not so  well.,Taip sau.,Taip sau.,58.45374263757147,80.04940936491896,1.3247488737106323
+447,Oh  dear. What is  the matter then?,"O brangioji, kas  yra?","O brangioji, kas ira?",58.45374263757147,80.04940936491896,1.2644414901733398
+448,My credit card is  gone.,Mano  kreditinė kortelė dingo.,Mano kreditinė kortelė dingo.,58.45374263757147,80.04940936491896,1.3298163414001465
+449,I can't find it  anywhere.,Aš  niekur negaliu jos rasti.,Aš niekur negaliu jos rasti.,58.45374263757147,80.04940936491896,1.3262029886245728
+450,When did you last  have it?,Kada  paskutinį kartą ją turėjote?,Kada paskutinysis kartonas turijote?,58.45374263757147,80.04940936491896,-0.5282332301139832
+451,Only  yesterday.,Dar vakar.,Dar vakar.,58.45374263757147,80.04940936491896,1.3232618570327759
+452,I paid for  something with the card.,Aš mokkjau už  kažką kortele.,Aš mokau už kažką kortele.,58.45374263757147,80.04940936491896,1.310858964920044
+453,Go to the bank  straight away.,Eikite tuoj pat  į banką.,Eikite į banką.,58.45374263757147,80.04940936491896,1.3107558488845825
+454,Do come with me  please.,"Eikime kartu,  prašau.","Eikimė kartu, prašau.",58.45374263757147,80.04940936491896,0.8092974424362183
+455,I have a bad  headache.,Man labai skauda  galvą.,Man labaai skauda galvą.,58.45374263757147,80.04940936491896,1.3172158002853394
+456,Of course I'll  come with you.,"Žinoma, gerai.","Žinoma, gerai.",58.45374263757147,80.04940936491896,1.321495771408081
+457,We'll go to a  cafe and have a cup of coffee.,Mes užeisime į  kavinę ir išgersime puoduką kavos.,Mes užeisime į kavinę ir išgersime puoduko kavą.,58.45374263757147,80.04940936491896,1.3241926431655884
+458,I have some  aspirin tablets and in the cafe we can get some water.,"Aš turiu  aspirino tabletę, o kavinėje gausime vandens.","Aš turiu aspirino tabletę, o kavalieje gausime vandens.",58.45374263757147,80.04940936491896,1.0674892663955688
+459,Plans  for the Evening,Planai  vakarui,Planai vakarui,58.45374263757147,80.04940936491896,1.3288371562957764
+460,What shall we do  this evening?,Ką  mes darysime šį vakarą?,Ką mes darysime <unk> vakarą?,58.45374263757147,80.04940936491896,0.6554344892501831
+461,Do we want to go  to the cinema or to the theatre?,Gal eisime į  kiną ar teatrą?,Gal eisime į kiną ar teatrą?,58.45374263757147,80.04940936491896,1.32706880569458
+462,I'm sure we'll  still get tickets.,Galėtumėm dar  gauti bilietus.,Galėtumam dar gauti bilietus.,58.45374263757147,80.04940936491896,1.3241026401519775
+463,But we could also  go dancing.,Galėtumėm  ir pašokti nueiti.,Galėtumėm ir pastori nueiti.,58.45374263757147,80.04940936491896,0.3653862774372101
+464,"I like  anything,  ballet or theatre.","Aš  mėgstu viską, ir baletą ir teatrą.","Aš mėgstu viską, ir baletą ir teatrą.",58.45374263757147,80.04940936491896,1.31913423538208
+465,"I also like going  to the cinema; you choose,what to do.","Aš  mėgstu ir kiną; sugalvok, ką mes darysime.","Aš megstu ir kiną; sugalvok, ką mes darysime.",58.45374263757147,80.04940936491896,1.0381970405578613
+466,I just want to  have a night out.,Aš  tiesiog norėčiau kur nors išeiti.,Aš tiesiog norėčiau kur nei išeiti.,58.45374263757147,80.04940936491896,0.4011822044849396
+467,Peter remembers  how hard up he is.,"Piteris  prisimena, kaip sunku prie kasos.","Piteris prisimena, kaip sunku prie kasos.",58.45374263757147,80.04940936491896,1.3266193866729736
+468,But he can't  suggest watching television.,Bet  jis negali pasiūlyti televizijos.,Bet jis negalutinės nuotraukos.,58.45374263757147,80.04940936491896,-1.255627989768982
+469,They borrow the  newspaper from the man sitting at the table next to them and look for the theatre programme.,Jie pasiskolina  laikraštį iš vyriškio prie gretimo staliuko ir žiūri teatrų programą.,Jie pasiskolina laikrodžiui išvyti iš vyriško prievartinio stalo ir žiuri arbatos programą.,58.45374263757147,80.04940936491896,-0.5513493418693542
+470,"They find nothing  suitable, and decide to go to a restaurant.",Jie  neranda nieko tinkamo ir nusprendžia nueiti į restoraną.,Jie neranda nieko tinkamo ir nusprendzia nueiti į restoraną.,58.45374263757147,80.04940936491896,1.3223580121994019
+471,I'll take you of course.,"Žinoma, aš jus  kviečiu.","Žinoma, aš jus kviečiu.",58.45374263757147,80.04940936491896,1.3178765773773193
+472,I know a good  restaurant. It's fairly small and not expensive.,Aš žinau gerą  restoraną. Jis nedidelis ir nebrangus.,Aš žinau gerą restoraną. Jis nedidelis ir nebrangus.,58.45374263757147,80.04940936491896,1.325380802154541
+473,"Service is good  and the food tastes excelent. That is the most important thing, don't you think?","Aptarnavimas  geras ir maistas puikus. O tai svarbiausia, ar ne?","Aptarnavimas geras ir maistas puikus. O tai svarbiausia, ar ne?",58.45374263757147,80.04940936491896,1.3246724605560303
+474,"Yes, thank you.","Taip, ačiū.","Taip, ačiū.",58.45374263757147,80.04940936491896,1.3301992416381836
+475,"I can wear the  shirt that I bought a minute ago, and the tie, which you gave me as present.","Ap galiu  apsivilkti marškinius, kuriuos tik ką nusipirkau ir kaklaraištį, kurį tu man  padovanojai.",<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>,58.45374263757147,80.04940936491896,-2.211172580718994
+476,We schould go now.,Mes turėtumėm  jau eiti.,Mes turėtumėm jaunai eiti.,58.45374263757147,80.04940936491896,0.6688070893287659
+477,The shops close  at 6 and I still want to buy something.,"Parduotuvės  užsidaro 6-tą, o aš dar noriu ką nors nusipirkti.","Parduotuvės užsidaro 6-tą, o aš dar noriu ką nors nusipirkti.",58.45374263757147,80.04940936491896,1.3232815265655518
+478,"Waiter, bill please!","Padavėjau, prašom sąskaitą.","Padavėjai, prašom sąskaitą.",58.45374263757147,80.04940936491896,1.2659912109375
+479,"A little jug of  coffee, one lemon tea and 2 pieces of cake; that comes to 9 marks 70.","Mažas kavinukas  kavos, arbata su citrina ir 2 gabaliukai pyrago; už visa tai 9 markės 70.","Mažas kavinukas kavas, arbata su citrina ir 2 gabaliukai pirago; už visa tai 9 markės 70.",58.45374263757147,80.04940936491896,0.5960701107978821
+480,Here's your bill.,Štai Jūsų  sąskaita.,Štų Jūsų sąskaita.,58.45374263757147,80.04940936491896,0.47984278202056885
+481,Should I give a tip?,Ar aš turiu  duoti arbatpinigių?,Ar aš turiu duotų arbatpinigių?,58.45374263757147,80.04940936491896,1.0843716859817505
+482,"Only 30 Pfennigs,  if you want to.","Tiktai 30  pfenigių, jeigu nori.","Tiktai 30 pfenigių, jeigu nori.",58.45374263757147,80.04940936491896,1.3231356143951416
+483,"In Germany,  service is always included.",Vokietijoje  aptarnavimas visada įjungtas.,Vokietijoje aptarnavimas visada įjungtas.,58.45374263757147,80.04940936491896,1.3248050212860107
+484,To  clarify a confusion (wrong address),Išaiškinti  nesusipratimą (blogas adresas),Ištvirkęs nesusipratimą (blogas adresas),58.45374263757147,80.04940936491896,0.9449935555458069
+485,"Good  morning, are you from the express-courier service?",Labas  rytas. Ar Jūs iš ekspreso kurjerių tarnybos?,Labas rytas. Ar Jūs iš ekspreso kurjerių tarnybos?,58.45374263757147,80.04940936491896,1.3244171142578125
+486,"Yes,  that's right.",Taip.,Taip.,58.45374263757147,80.04940936491896,1.321192979812622
+487,We  have been expecting you.,Mes  laukėme Jūsų.,Mes laukėme Jūsų.,58.45374263757147,80.04940936491896,1.326646327972412
+488,Come in.,Prašom  įeiti.,Prašom įeiti.,58.45374263757147,80.04940936491896,1.3262523412704468
+489,Thanks.  Did you wait long?,Ačiū.  Ar Jūs laukėte ilgai?,Ačiū. Ar Jūs laukėte ilgai?,58.45374263757147,80.04940936491896,1.3238050937652588
+490,It's  all right. Where are the parcels?,Nieko.  Kur paketas?,Nieko. Kur paketas?,58.45374263757147,80.04940936491896,1.326827049255371
+491,Have  you got them?,Ar  Jūs turite jį?,Ar JŪS TURITE JĮ?,58.45374263757147,80.04940936491896,0.7943453192710876
+492,"Of  course. Here you are, both in the name of Schmidt.","Žinoma.  Štai, abu Šmidto vardu.","Žinoma. Štai, abu Šmidto vardu.",58.45374263757147,80.04940936491896,1.3226207494735718
+493,"Schmidt?  My name is Schulz, Elvira Schulz.","Šmidto?  Mano vardas Šulz, Elvyra Šulz.","Mano vardas Šulz, Elvyra Šulz.",58.45374263757147,80.04940936491896,1.1066457033157349
+494,"There  must be something wrong. Here it says: Schmidt, Bahnhof Street 12, third floor.","Tai  kažkas negerai. Bet čia parašyta: Šmidt, Bahnhof Street 12, trečias aukštas.","Tai kažkas negerai. Bet čia parašita: Šmidt, Bahnhof Street 12, trečias aukštas.",58.45374263757147,80.04940936491896,1.2366642951965332
+495,"Yes,  the address is correct, but we are on the fourth floor. The Schmidts are living on the 3rd floor.","Taip  adresas teisingas, bet mes esame ketvirtame aukšte. Šmidtai gyvena trečiajame.","Taip adresas teisingas, bet mes esame ketvirtame aukštai. Šmidtai gyvena trečiajame.",58.45374263757147,80.04940936491896,1.180428147315979
+496,"Oh,  I'm sorry.","O,  atsiprašau.","O, atsiprašau.",58.45374263757147,80.04940936491896,1.3285512924194336
+497,Goodbye.,Viso  gero.,Viso gero.,58.45374263757147,80.04940936491896,1.324122428894043
+498,What on earth did they order? Also with express-courier!,Kas  gi po galais čia dedasi? Ir dar ekspreso kurjeriai!,Kas gi po galais cia dedasi? Ir dar ekspreso kurjeriai!,58.45374263757147,80.04940936491896,1.2656991481781006
+499,Airplane disaster in Vilnius - what is known about the event?,Lėktuvo katastrofa Vilniuje – kas žinoma apie įvykį?,Lėkštuvo katastrofa Vilniuje – kas žinių apie įvyki?,58.45374263757147,80.04940936491896,0.9206894040107727
+500,"On Monday morning a plane crash occurred in the capital - in Liepkalnis, near Vilnius Airport, a cargo aircraft ""Boeing 737"" crashed.","Pirmadienio rytą sostinėje įvyko lėktuvo katastrofa – Liepkalnyje, netoli Vilniaus oro uosto, nukrito krovininis orlaivis „Boeing 737“.",Pagrindinis puslapis <unk> Programinė įranga <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>,58.45374263757147,80.04940936491896,-1.7369468212127686
+501,"One person was killed in the incident, three were injured, one of them is a Lithuanian.","Per įvykį vienas žmogus žuvo, trys sužeisti, vienas iš jų yra lietuvis.","Per įvyką vienas žmogus žuvo, trys sužeista, viena iš jos yra lietuvis.",58.45374263757147,80.04940936491896,1.24503493309021
+502,On Monday at 5.28 am received information that a cargo plane crashed in Liepkalnis near the house.,"Pirmadienį 5.28 val. ryto gauta informacija, kad krovininis lėktuvas nukrito Liepkalnyje šalia namo.","Pirmadienį 5.28 val. ryto gauta informacija, kad krovininis lėktuvas nukritime Liepkalnyje salia nam.",58.45374263757147,80.04940936491896,1.1360101699829102
+503,"Commercial aircraft flew to Vilnius from Leipzig, Germany.","Krovininis lėktuvas į Vilnių skrido iš Leipcigo, Vokietijos.","Krovinis lėktuvas į Vilnių skrido iš Leipcigo, Vokietija.",58.45374263757147,80.04940936491896,1.3208802938461304
+504,"Before the flight to Vilnius, the plane stood unused for two days, November 23-24, at Leipzig Airport.","Prieš skrydį į Vilnių lėktuvas dvi dienas, lapkričio 23–24 d., Leipcigo oro uoste stovėjo nenaudojamas, nors įprastai orlaiviu buvo skraidoma kasdien.","Prieš skrydį į Vilnių lėktuvas dvidienis, lapkričio 23<unk> 24 d., Leipcigo oro nuostos stovėjo nenaudojamas, nors įprastus orlaiviu buvo skraidoma kasdien.",58.45374263757147,80.04940936491896,0.4742412567138672
+505,"Airplane crashed in Liepkalnis, at the intersection of Žirniai and Liepkalnis streets.","Lėktuvas nukrito Liepkalnyje, ties Žirnių ir Liepkalnio gatvėmis.","Lėktuvas nukrito Liepkalnyje, ties Žirnių ir Liepkalnio gatvėmis.",58.45374263757147,80.04940936491896,1.3267695903778076
+506,"Company DHL's commissioned flights were performed by an aircraft belonging to Spanish airlines ""Swiftair"".","Bendrovės DHL užsakomuosius skrydžius vykdė lėktuvas, priklausęs Ispanijos oro linijoms „Swiftair“.","Bendrovės DHL užsakius skrydžius vykdė lėktuvas, priklausantis Ispanijos oro linijoms<unk> Swiftair“.",58.45374263757147,80.04940936491896,1.0249199867248535
+507,"In the internet, when the pilot's and flight commander's voice recording appeared, it was noticed that the conversation was completely routine, no signs of panic were recorded.","Internete pasirodžius pilotų ir skrydžio vadovo garso įrašui, pastebėta, kad pokalbis buvo visiškai rutininis, nefiksuota jokių nerimo ženklų.","Internete pasirodžiau pilotų ir skrydžio vado įrašui, pastebėtai, kad pokalbiui buvo visiškai rutininis, nefiksuotai jokių nervų ženelių.",58.45374263757147,80.04940936491896,0.029190639033913612
+508,DHL informed that due to the plane crash an investigation has been started.,"DHL informavo, kad dėl lėktuvo katastrofos pradėtas tyrimas.","DHL infoavo, kad lėl lėkštuvo katastrofos pradėtas tyrimas.",58.45374263757147,80.04940936491896,0.3890554904937744
+509,An incident occurred in the place where it was seen that the aircraft's landing gear touched down more than 100 meters away.,"Incidento vietoje buvo matyti, kad orlaivio nuolaužos pažiro net 100 m atstumu.","Incidento vietoje buvo matyti, kad orlaivio nuolaužos net 100 m atstumu.",58.45374263757147,80.04940936491896,0.9893185496330261
+510,Medical staff arrived on the scene within six minutes.,Medikai į įvykio vietą atvyko per 6 minutes.,Medikai į įvyki vieto atvyko per 6 minutes.,58.45374263757147,80.04940936491896,0.822154700756073
+511,The head of the Vilnius Emergency Medical Assistance Brigade Service Igoris Lukaševas told LRT Radio that the most serious conditions among the wounded crew members are a 54 and 40-year-old people.,"Vilniaus greitosios medicinos pagalbos Išvažiuojamųjų brigadų tarnybos vadovas Igoris Lukaševas LRT RADIJUI teigė, kad iš sužeistų įgulos narių sunkiausia būklė – 54 ir 40 metų asmenų.","Vilniaus sveikatos priežiūros paslaugų agentūra Igoris Lukaševas LRT RADIJUI teisybė, kad aš išvykau su savimi įgulų narų sunkausia būklė – 54 ir 40 metų amžiaus.",58.45374263757147,80.04940936491896,-0.49854129552841187
+512,"One of them was at least for a time conscious, spoke English.","Vienas jų bent kurį laiką buvo sąmoningas, kalbėjo angliškai.","Vienų jūrų sulenktas kurį laiką buvo sąmoningas, kalbojo angliškais.",58.45374263757147,80.04940936491896,-0.2682492136955261
+513,"During flight, they were in the pilot's cabin.",Skrydžio metu jie buvo piloto kabinoje.,Skrydžio metu jie buvo bandomasis kabinete.,58.45374263757147,80.04940936491896,-0.5317055583000183
+514,"Survived a 34-year-old crew member of Lithuanian nationality at the time of misfortune was in the aircraft cabin, his injuries were lighter.","Išgyvenęs 34 metų amžiaus įgulos narys lietuvis nelaimės metu buvo orlaivio salone, jo sužalojimai lengvesni.","Išgyvenęs 34 metų amžiaus įgulų narys lietuvis nelaimę meilės arlaivio salone, jo sužaliavimas lengvesni.",58.45374263757147,80.04940936491896,0.40821242332458496
+515,"The Mayor of Vilnius Valdas Benkunskas informed that a state of local extreme emergency would be declared in the disaster area, which would help to take care of residents, manage the territory and provide assistance.","Vilniaus meras Valdas Benkunskas informavo, kad katastrofos teritorijoje bus paskelbta lokali ekstremalioji situacija, tai padės pasirūpinti gyventojais, teritorijos tvarkymu, pagalbos teikimu.","Vilniaus mero Valdo Benkunsko informacija, kad kad kad kad katastrofos teritorijoje bus paskelbta lokali ekstremalioji situacija, tai padėtys pasirūpinti gyventojais, teritorinės medžiagos, pagalba tikimybe.",58.45374263757147,80.04940936491896,-0.23361477255821228
+516,"According to the mayor, the health of people affected by air and water pollution is not a problem.","Pasak mero, pavojaus žmonių sveikatai dėl oro, vandens užterštumo nėra.","Pasak mero, pavežaus žmonų sveikatos oro, vandens užteršimo nera.",58.45374263757147,80.04940936491896,-0.17626355588436127
+517,Police department together with the General Prosecutor's Office started an investigation into the circumstances of the incident to clarify them.,Policijos departamentas kartu su Generaline prokuratūra pradėjo ikiteisminį tyrimą įvykio aplinkybėms išsiaiškinti.,Policijos departamentas kartu su Generaline prokuratūra pradejo ikiteisminį tyrimą atliekančio asmens apžvalga.,58.45374263757147,80.04940936491896,1.0520206689834595
+518,We are investigating all possible causes of the accident.,Tiriamos visos galimos avarijos priežastys.,Tiriamos visos galimos avarijos priežastys.,58.45374263757147,80.04940936491896,1.327542781829834
+519,"The version of terrorism was not excluded, as on June 19, packages were sent from Lithuania via DHL Lietuva that exploded themselves and caused fires in logistics centers in Leipzig and Birmingham.","Terorizmo versija neatmetama, nes liepos 19 d. iš Lietuvos per „DHL Lietuva“ buvo išsiųsti savaime užsidegantys siuntiniai, jie sukėlė gaisrus logistikos centruose Leipcige ir Birmingame.","Terorizmo versija tvarkinga, nes liepos 19 d. iš Lietuvos per<unk> DHL Lietuva“ buvo išvyka į savivaldybę, jie sukėlė gaisrus logistikos centras Leipcige ir Birmingame.",58.45374263757147,80.04940936491896,-0.45517098903656006
+520,"Only by chance, a cargo in Leipzig was not loaded into the aircraft.",Tik per atsitiktinumą krovinys Leipcige tuomet nebuvo pakrautas į orlaivį.,Tik per atsitiktinumą krovinys Leipcige tuomet nebuvo pakrautas į orlaivį.,58.45374263757147,80.04940936491896,1.3248883485794067
+521,There was no indication that the DHL cargo plane crash in Lithuania could be linked to a warning issued by German authorities over the summer about packages carried on planes with explosive devices.,"Visgi pirmadienį popiet Vokietijos vidaus reikalų ministerijos atstovas, kurį citavo „Reuters“, teigė, kad nėra jokių požymių, kad DHL krovininio lėktuvo katastrofa Lietuvoje gali būti susijusi su Vokietijos valdžios institucijų vasarą paskelbtu įspėjimu apie lėktuvais skraidintus paketus su padegamaisiais įtaisais.","Visgi pirmadienį popiet Vokietijos vidaus reikalų ministras atstovas, kurį citavo<unk> Reuters“, teigė, kad nerą jokių požymių, kad DHL krovininio lėkštuvo katastrofa Lietuvoje gali būti sujungimai su Vokietijos valdybų institucija",58.45374263757147,80.04940936491896,-0.2941054701805115
+522,The lecturer of the Antanas Gustaitis Aviation Institute at Vilnius Gediminas Technical University (VILNIUS TECH) Vincas Šnirpūnas told LRT.lt that there may be more than one reason for such events.,"Vilniaus Gedimino technikos universiteto (VILNIUS TECH) Antano Gustaičio aviacijos instituto lektorius Vincas Šnirpūnas LRT.lt teigė, kad tokių įvykių priežasčių gali būti ne viena.","Vilniaus Gedimino technikos universiteto (VILNIUS TECH) Antano Gustaičio aviacijos instituto lektorius Vincas Šnirpūnas LRT.lt teisė, kad tokių įmonių priežiūra gali būti viena.",58.45374263757147,80.04940936491896,0.27039283514022827
+523,"However, as he says, in any case it is usually related to human error.","Anot jo, vis dėlto dažniausiai tai susiję su žmogiška klaida.","Anot jo, vis dėlto dažniausiai tai susiję su žmogiška klaida.",58.45374263757147,80.04940936491896,1.326076865196228
