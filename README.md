@@ -1,5 +1,7 @@
 # Language-as-Data
 
+For this assignment, I chose to work with the Hugging Face dataset, which is accessible at the following link: https://huggingface.co/datasets/werent4/lithuanian-translations/viewer/en-lt. This dataset contains sentences translated from Lithuanian to English.
+
 Original Dataset: The dataset is provided in the file train-00000-of-00001.parquet.
 
 Prompts for Data Augmentation: The Jupyter Notebook Llama3_for_Data_Augmentation.ipynb contains the prompts used for data augmentation.
