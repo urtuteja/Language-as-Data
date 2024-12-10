@@ -4,7 +4,7 @@ For this assignment, I chose to work with the Hugging Face dataset, which is acc
 
 Original Dataset: The dataset is provided in the file train-00000-of-00001.parquet.
 
-Prompts for Data Augmentation: The Jupyter Notebook Llama3_for_Data_Augmentation.ipynb contains the prompts used for data augmentation.
+Prompts for Data Augmentation: The Jupyter Notebook LLaMA3_for_Data_Augmentation.ipynb contains the prompts used for data augmentation.
 
 Augmented Dataset: The file train-00000-of-00001.csv includes both the original data (lines 1–498) and the data augmented using the LLaMA 3 model (lines 499–523).
 
