@@ -1,4 +1,4 @@
-This folder contains all the materials used for the Error Analysis.
+This folder contains all the materials used for the error analysis.
 
 The complete code is available in the Jupyter Notebook Error_Analysis.ipynb.
 
