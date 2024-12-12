@@ -1,4 +1,4 @@
-This folder contains all the materials used for the Contextualized Vectors Analysis .
+This folder contains all the materials used for the contextualized vectors analysis .
 
 The complete code is available in the Jupyter Notebook Contextualized_Vectors.ipynb.
 
