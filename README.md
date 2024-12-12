@@ -11,3 +11,8 @@ Augmented Dataset: The file train-00000-of-00001.csv includes both the original 
 Dataset Analysis: The Jupyter Notebook Dataset_Analysis.ipynb provides a basic analysis of the dataset, examining properties such as average sentence length, vocabulary size, most frequent words, and POS tags.
 
 Machine Translation Experiments: The folder MT Experiments contains the code and all the generated files used during the machine translation experiments.
+
+Contextualized Vectors: The folder Contextualized Vectors contains the code and generated file used during the contextualized vectors analysis.
+
+Error Analysis: The folder Error Analysis contains the code and the file used during the error analysis.
+
