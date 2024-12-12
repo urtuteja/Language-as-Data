@@ -1,0 +1,524 @@
+line_count;en;lt;translated_text;error_code
+1;Meeting in Vilnius;Sutikimas Vilniuje;Sutikimas Vilniuje;0
+2;That is the address;Štai adresas;Štai adresas;0
+3;Where does Sigita live?;Kur gyvena Sigita?;Kur givena Sigita?;12
+4;I am looking for Miss Sigita;Aš ieškau Sigitos;Aš ieškau Sigitos;0
+5;Just a moment;Minutėlę;Minutėlė;11
+6;Who are you please?;Atsiprašau, o kas Jūs?;Asiprašau, o kas mes?;13
+7;Hello, I am Jonas Vasiliauskas;Alio, aš esu Jonas Vasiliauskas;Alio, aš esu Jonas Vasiliauskas;0
+8;I am from Lithuania;Aš esu iš Lietuvos;Aš esu iš Lietuvos;0
+9;Welcome to Vilnius;Sveiki atvykę į Vilnių;Sveiki atvykę į Vilnių;0
+10;A hotel room is reserved for you;Jums užsakytas kambarys viešbutyje;Jums užpakaliukas kambarys viešumas;13, 13
+11;"The hotel is called ""Žaliasis tiltas""";"Viešbutis vadinasi ""Žaliasis tiltas""";"Viešbutis vadinis ""Žaliasis tiltas""";12
+12;The hotel is not large;Viešbutis nedidelis;Viešbutis nedidelis;0
+13;It is small but comfortable;Jis mažas, bet patogus;Jis mažas, bet patogus;0
+14;Where is the hotel?;Kur yra viešbutis?;Kur yra viešbutis?;0
+15;It is easy to find and not far;Lengva surasti, jis netoli;Lengva surasti, jis netoli;0
+16;Go left into Kalvarijos street and it  is one hundred meters in the right;Pasukite į Kalvarijos gatvę, jis už šimto metrų dešinėje;Pasukite į Kalvarijos gatvę, jis už šimto metrų dešinėje;0
+17;Good night. Till tomorrow;Labanaktis. Iki.;Labanaktis. Iki.;0
+18;In the hotel;Viešbutyje;Viešbutyje;0
+19;The receptionist welcomes you;Jus sveikina registratorė;Jus sveikina registratorė;0
+20;I am expecting you already;Aš Jūsų laukiau;Aš jūsų laukau;12
+21;Have you got your  passport?;Ar turite pasą?;Ar turite pasą?;0
+22;Your room number is seven;Jūsų kambario numeris septintas;Jūsų kambario numeris septintas;0
+23;It's on the first floor;Jis antrame aukšte;Ji antrame aukštas;9
+24;Your room;Jūsų kambarys;JŪSŲ KAMBARYS;12
+25;Here is your room.;Štai Jūsų kambarys.;Štų Jūsų kambarys.;12
+26;The room is very nice.;Kambarys puikus.;Kambarys puikus.;0
+27;On the bed is only one  pillow. Would you like two?;Ant lovos - viena pagalvė, ar norite antrą?;Ant lovos - viena šventė, ar norite antrą?;13
+28;No thank you. Only one please.;Ne, ačiū. Užteks vienos.;Ne, ačiū. Užteks vienos.;0
+29;The bathroom is next door.;Vonia yra šalia kambario.;Vonia era šalia kambario.;12
+30;Would you like to take a  shower?;Ar norite išsimaudyti?;Ar norite išsimaudyti?;0
+31;Yes please.;Taip, būtų gerai.;Taip, būtų gerai.;0
+32;Here is the soap and a bath towel.;Štai muilas ir vonios rankšluostis.;Štai muilas ir vonios rankšluostis.;0
+33;Thank you. The bath towel is large and soft. Terrific!;Ačiū. Rankšluostis didelis ir minkštas.  Nuostabu!;Ačiū. Rankšluostis didelis ir audimas. Nuostabu!;13
+34;In the hotel at reception;Viešbučio registratūroje;Viešbučio registratūroje;0
+35;I do not like my room.;Atsiprašau, bet aš nepatenkintas kambariu.;Asiprašau, lažintis dėl nepatenkinto kambariu.;13, 13, 9
+36;What is the matter then?;O kas negerai?;O kas negerai?;0
+37;I cannot sleep.;Negaliu miegoti.;Negaliu miegoti.;0
+38;I hear the street noise.;Girdėti triukšmas gatvėje.;Girdėtės triaukštis gatvėje.;12, 13
+39;Where is your room?;Kur yra Jūsų kambarys?;Kur yra Jūsų kambarys?;0
+40;On the first floor.;Pirmajame aukšte.;Pirmajame aukštai.;0
+41;My room number is seven.;Mano kambarys septintas.;Mano kambarys septintas.;0
+42;Would you like a room on the fifth  floor?;Ar norite kambario penktame aukšte?;Ar norite kambario penktame aukštai?;0
+43;Yes, please.;Taip, būtų gerai.;Taip, būtų gerai.;0
+44;In the morning;Ryte;Ryte;0
+45;Good morning, did you sleep well?;Labas rytas. Ar gerai miegojote?;Labas rytas. Ar gera miegojote?;12
+46;Yes, thank you.;Taip, ačiū.;Taip, ačiū.;0
+47;The weather is fine now, isn't it?;Puikus oras, ar ne?;Puikus oras, ar ne?;0
+48;The rain has stopped.;Nustojo lyti.;Nustojo lyti.;0
+49;Yes, it's a fine day.;Taip, puiki diena.;Taip, puiki diena.;0
+50;It's quite hot already.;Jau gana šilta.;Jau gana šilta.;0
+51;What's the time, please?;Kiek dabar laiko?;Kiek dabar aiko?;12
+52;Just a moment.;Tuoj pažiūrėsiu.;Tuoj pajūriu.;13
+53;Nearly ten o'clock!;Tuoj dešimt!;Tuoj dešimt!;0
+54;The Breakfast;Pusryčiai;Pusryčiai;0
+55;Good morning, how are you?;Labas rytas, kaip miegojote?;Labas rytas, kaip miegojote?;0
+56;Good morning, what's there for  breakfast?;Labas rytas. Ką turite pusryčiams?;Labas rytas. Ką turite pusryčiams?;0
+57;We have fresh  rolls: rolls with seeds or soft rolls with butter, honey or jam.;Turime šviežių bandelių: bandelių su aguonomis arba  minkštų bandelių su sviestu, medumi ar uogiene.;Turime šviesų bandelių: bandelių su aguonomis arba audrų bandelių su svestu, medumi ar uogiene.;13, 13, 12
+58;Yumm, that smells good.;Hm, kvepia puikiai;Hm, kvepia puikiai;0
+59;I'd like two rolls;Norėčiau dviejų;Norečiaus piliakalnis;12, 12, 13
+60;One roll with seeds and a soft roll with butter and honey;Vieną bandelę su aguonomis ir vieną minkštą su sviestu  ir medumi;Viena bandelė su aguonomis ir viena ranka su sviestu ir medumi;9, 9, 9, 13
+61;I would also like a glass of orange juice and a cup of coffee  please;Taip pat norėčiau stiklinę apelsinų sulčių ir puodelį  kavos.;Taip pat norėčiau Stiklinė apelsinų sulčiaspaudės ir puodelės kavos.;12, 9, 13, 9
+62;Another coffee?;Dar kavos?;Dar kava?;9
+63;Yes please;Taip, ačiū;Taip, ačiū;0
+64;The waitress smiles;Padavėjas šypsosi;Padavėjas šypsosi;0
+65;Where do you live then?;Kur Jūs gyvenate?;Kur mes gyvenate?;13
+66;I live in Toronto;Aš gyvenu Toronte;Aš givenu Toronte;12
+67;Is this your's first visit to Vilnius?;Ar Jūs pirmą kartą Vilniuje?;Ar mes perkam kartu Vilniuje?;13, 13, 13
+68;Yes, I like Vilnius;Taip, man patinka Vilnius;Taip, vyras patinka Vilnius;13
+69;Do you understand my Lithuanian?;Ar Jūs mane suprantate?;Ar Jūs mane suprantate?;0
+70;Yes, your Lithuanian is good;Taip, Jūs puikiai kalbate lietuviškai.;Taip, Jūs puikiai lietuviški.;3, 11
+71;I can understand a lot, but please speak slowly;Taip, aš daug suprantu, bet kalbėkite lėčiau prašom;Taip, aš daug daugiau suprantu, bet kalbėti lėčiau prašom;1, 11
+72;The Clock.;Laikrodis;Laikrodis;0
+73;It is ten o'clock.;Dabar dešimt valandų.;Dabar dešimtų valandų.;0
+74;It is ten fifteen.;Penkiolika minučių po dešimtos.;Penkiolika minučių po dešimtos.;0
+75;Quarter past ten.;Ketvirtis vienuoliktos.;Ketvirtis vienuolikos.;0
+76;It is ten thirty or half past ten.;Dešimt valandų trisdešimt minučių arba puse vienuoliktos.;Dešimt valandinių trisdešimt minučių arba pause vienuolikos.;13, 8, 12
+77;It is ten forty five or quarter to eleven.;Dešimt valandų keturiasdešimt penkios minutės arba be penkiolikos  minučių vienuolika.;Dešimt valandinių keturijųdešimt penkios minutės arba be penkiolikos minučių vienuolika.;13, 12
+78;On telephone;Pokalbis telefonu;Pokalbis telefonu;0
+79;Hello Sigita, here is Kathleen.;Sveika Sigita, čia Katlyna.;Sveika Sigita, čia Katlyna.;0
+80;Hello, how are things?;Sveika, kaip sekasi?;Sveikas, kaip sekasi?;9
+81;Fine, thank you.;Ačiū, puikiai.;Ačiū, puikiai.;0
+82;I'm going shopping in a minute.;Aš einu dabar apsipirkti.;Iš čia svečiai gali mėgautis lengvu susisiekimu.;16
+83;So am I. I'm going to the market.;Aš taip pat. Ruošiuosi eiti į turgų.;Iš čia svečiai gali mėgautis lengvu susisiekimu.;16
+84;Oh yes, today is market day.;O, šiandien juk turgaus diena.;O, šiandien juk turgaus diena.;0
+85;Then I'll go to the market as well.;Tada aš irgi eisiu į turgų.;Tada aš irgi eisiu į turgų.;0
+86;Shall we meet?;Ar susitiksime?;Ar susitiksime?;0
+87;Is that possible?;Ar tai įmanoma?;Ar tai yra įmanomos?;2, 11
+88;Yes, that is possible. Where shall we meet then?;Taip, kur galėtumėm susitikti?;Taip, kur galėtumėm susitaikyti?;13
+89;At the first stall.;Prie pirmo prekystalio.;Prie pirmo prekystalio.;0
+90;When shall we meet?;Kada?;Kada?;0
+91;At 10 o'clock sharp. Is that all right?;Tiksliai dešimtą. Ar tinka?;Tiksliai dešimtą. Ar tinka?;0
+92;What's the time now?;Kiek dabar?;Kiekas Dabaras?;13
+93;Nearly ten.;Greitai dešimt.;Greitai dešimt.;0
+94;"Good-bye; see you in a minute then.";Iki. Greitai pasimatysime.;Iki. Greitai pasimatysime.;0
+95;On the market;Turguje;Turgujė;9
+96;Yum, the strawberries smell lovely.;Ach, kaip puikiai kvepia braškės.;Ach, kaip puikiai kvepia braškės.;0
+97;Yes, strawberries are my favorite.;O, braškės mano mėgstamiausios uogos.;O, braškes mano megstamiausios uogos.;9, 12
+98;But Ana, the strawberries are not  fresh.;Bet Ana, braškės ne šviežios.;Bet Ana, braškės ne Šviesios.;12, 13
+99;Not fresh? What a pity!;Ne šviežios? Kaip gaila!;Ne Šviesios? Kaip gaila!;12, 13
+100;At the vegetable stand;Prie daržovių prekystalio;Prie Daržovių prekybos centro;12, 10
+101;A long cucumber please.;Man prašau ilgą agurką.;Man prašau lgą gurką.;12, 12
+102;Anything else?;Dar ką nors?;Dar ką nors?;0
+103;Yes, A nice, lettuce  please.;Taip, prašau gražių salotų.;Taip, prašau graikų salotų.;13
+104;Three Litas , please.;Trys litai.;Išbando litai.;13
+105;Here is a twenty Litas  note.;Štai dvidešimt litų.;Štai dvidešimt litų.;0
+106;Thanks. And here's a ten Litas note and  one, two, three, four, five, six, seven Litas back.;Ačiū. Dešimt litų ir vienas, du,  trys, keturi, penki, šeši, septyni litai  grąžos.;Ačiū. Dešimt litų ir vienas, du, tries, keturi, penki, šeši, septyni litai gr<unk> os.;12, 11
+107;Thank you.;Ačiū.;Ačiū.;0
+108;At Sigita's;Pas Sigitą;Pas Sigitą;0
+109;"I am hungry; you as well?";Aš alkanas(-a), o tu?;Aš alkanas (-a), o tu?;0
+110;Yes. When is lunch then?;Taip. Kada priešpiečiai?;Taip. Kada priešpiečiai?;0
+111;Any minute now. The sun is  shining. We could have lunch on the balcony.;Už kelių minučių. Saulė šviečia. Galėtumėm  valgyti balkone.;Už kelių minučių. Saulė šviečia. Galetumem valgyti balkone.;12
+112;Teriffic. I lay the table. What we have then?;Puiku. Aš padengsiu stalą. Ką mes valgysim?;Aš esu aš. Aš esu aš. Ką mes valgysim?;16
+113;Cheese Šeduva, eggs and  salad. Would you like omelet?;Šeduvos sūrį, kiaušinius ir salotas.  Gal norėtum omleto?;Šeduvos sūris, kiaušinis ir salotas. Gal norėtum omleto?;9, 9
+114;Omelet? Yuck, I don't like that.;Omleto? Ačiū, bet aš nemėgstu.;Omleto? Ačiū, lažintis, kad aš negėgstu.;13, 2, 12
+115;I've got some rolls as well.;Aš dar turiu keletą bandelių;Aš dar turistinis kelias bandelių;13, 9
+116;Yes, some rolls please.;Porą bandelių prašom.;Porų bandelių prašom.;13
+117;Can we meet this  morning?;Ar galėtumėm šiandien  susitikti?;Ar gali būti, kad šindien susitikti?;13, 11, 2, 2, 12
+118;Yes, that's possible.;Taip, galim.;Taip, galim.;0
+119;At 9 o'clock perhaps?;Gal 9 valandą?;Gal 9 valandėlės?;11
+120;No, that won't do.;Ne, man netinka.;Ne, netinka.;4
+121;I want to go shopping first and the shops open at  8:30.;Aš norėčiau eiti apsipirkti, o parduotuvės dirba nuo 8:30.;Aš noriu eiti apsipirkti, o parduotuvės dirba nuo 8:30.;11
+122;Half past ten is fine.;Tada būtų gerai puse  vienuoliktos.;Tadas Būtų Gerų Pesų Vienuolės.;16
+123;All right then. At 10:30.;Puiku, puse vienuoliktos.;Puiku, puse vienuolikos.;11
+124;Where shall we meet?;Kur mes susitiksime?;Kur mes susitiksime?;0
+125;Perhaps in front of the Hermis bank?;Gal prie Hermio banko?;Gal prie Hermio banko?;0
+126;Oh no, not there.;Oi ne, ne ten.;Oi ne, ne dešimt.;13
+127;"Better opposite, in the Cafe ""Neringa"".";Geriau kitoje pusėje, Neringos kavinėje.;Geriau kitoje pusėje, Neringos kavinėje.;0
+128;All right. I'll be there at half past ten.;Gerai, aš būsiu ten puse  vienuoliktos.;Gerai, aš būsiu dešimt pese vienuolikos.;13, 12, 11
+129;In the men's outfitter's;Vyriškų drabužių  parduotuvėje;Vyriškų drabužių parduotuvė;9
+130;Good afternoon.;Laba diena.;Laba diena.;0
+131;What can I do for you?;Kuo galiu padėti?;Kuo gali būti padėta?;9, 2
+132;I'd like a pair of socks. Cotton please.;Norėčiau keletą porų medvilninių  kojinių;Norėčiau kelių porų medvilninių kojinių;9
+133;What size do you take?;Kokio dydžio?;Kokio dydžio?;0
+134;I take shoe size 9-9;Aš nešioju 43 dydį.;Aš nešioju 43 dydį.;0
+135;These here are all 70% cotton and 30% nylon.;Štai šitose yra 70% medvilnės  ir 30% neilono.;Štai šitose ira 70% medvilnės ir 30% neilono.;12
+136;We don't have any in pure. They are not very  practical either.;Mes neturime grynai medvilninių.  Jos nepraktiškos.;Mes neurime grynai medvilninių. Jos nepraktiškosios.;12, 11
+137;I am sorry.;Atsiprašome.;Asiprašom.;12
+138;Yes, that's a pity!;Gaila.;Gaila.;0
+139;Good bye;Viso gero.;Viso gero.;0
+140;"In the Cafe ""Neringa"", ordering a cup of coffee";Neringos kavinėje, kavos užsakymas;Neringos kavinėje, kavinėje;11, 3
+141;May I invite you to a cup of coffee?;Galiu Jus pakviesti puodukui  kavos?;Galiu jus pakvieti puodukui kavos?;12
+142;Thank you. That's nice of you.;Ačiū, Jūs labai maloni.;Ačiū, Jūra Labai Maloni.;12, 12, 12
+143;The cakes are very good.;Pyragaičiai labai skanūs.;Pyragaičių labai skanūs.;9
+144;Would you like a piece?;Norite dar gabaliuko?;Norite dar gabaliuko?;0
+145;No thank you. Only a cup of black coffee, please.;Ne, ačiū. Tik juodos kavos,  prašom.;Ne, ačiū. Tik juodos kavos, prašom.;0
+146;Waiter! A cup of coffee without cream and a little jug of coffee, please.;Padavėjau, puodelį juodos kavos  be grietinėlės ir kavinuką kavos  prašom.;Padavėjai, puodelis į juodąsias kavas be grietinėlės ir kavinuko kava prašom.;9, 9, 2, 11, 12, 9, 9
+147;Could you please pass the sugar?;Galite man paduoti cukraus?;Galite vyras paduoti cukraus?;13
+148;Here you are.;Prašau.;Prašau.;0
+149;At a Party;Priėmime;Priemė;12
+150;Here is the wine.;Štai vynas.;Štai vynas.;0
+151;Would you like some?;Ar norėtumėte?;Ar norėtutė?;12
+152;Yes please.;Taip, prašau.;Taip, prašau.;0
+153;Here comes our hostess.;Ateina mūsų šeimininkė.;Ateina mūsų šeimininkė.;0
+154;Good arternoon, Mr Becker.;Laba diena, ponia Becker.;Laba diena, Ponia Beker.;12
+155;I'm glad to see you.;Malonu Jus matyti.;Malonu Jus matyti.;0
+156;It is very warm today, don't you think so?;Labai šilta šiandien, ar ne  tiesa?;Labai šilta shiandien, ar ne tiesa?;12
+157;Yes, very warm indeed. I don't mind warm weather.;Taip, iš tikrųjų. Bet aš mėgstu šiltą orą.;Taip, aš tikrų. Lažinuosi, kad aš mėgstu šiltą arą.;13, 12, 13, 2
+158;It is really hot today.;Tikrai karšta šiandien.;Tikrai karšta šindien.;0
+159;You are wearing a jacket and tie.;Jus su švarku ir kaklaraiščiu.;Jus su švarku ir kaklaraiščiais.;9
+160;You may take your jacket off if you want to.;Galite nusirengti, jei norite.;Galite nuirengti, jei norite.;12
+161;"In the Department  Store; to try something on";"Universalinėje parduotuvėje; ką nors pasimatuoti";"Universalioje parduotuvėje; ką nors pasimatuoti";11
+162;This dress is size 40.;Ši suknelė 40 dydžio.;Ši suknelė 40 dydžio.;0
+163;That is too small for me.;Ji per maža man.;Ji per maža vyras.;13
+164;Have you not got it in 42?;Ar neturite 42 dydžio?;Ar neturite 42 dydio?;12
+165;No I'm sorry.;Gaila, neturime.;Gaila, neturime.;0
+166;But do try it on.;Bet pasimatuokite.;Bet pasimatuokite.;0
+167;It might fit.;Gal tiks.;Gal tiks.;0
+168;All right then.;Na gerai.;Na gerai.;0
+169;Where is the changing room?;Kur galima  pasimatuoti?;Kur galima pasimatuoti?;0
+170;Over there, next to the  large mirror.;Štai ten, prie didelio veidrodžio.;Štai ten, prie didelio veidrodžio.;0
+171;Thank you;Ačiū.;Ačiū.;0
+172;Hotel  Astoria. To reserve room (by telephone);Viešbutis Astorija. Užsakyti kambarį (telefonu);Viešbutis Astorija. Užsakyta iš anksto (telefonu);11, 2, 13
+173;Hotel  Astoria, Berlin, can I help you?;Viešbutis Astorija, Berlynas. Kuo galiu Jums padėti?;Viešbutis Astorija, Berlynas. Kuo gali būti Jums papėdė?;9, 2, 13
+174;Have you any  vacancies?;Ar  turite laisvų kambarių?;Ar turit laisvų kambarių?;11
+175;Yes, we  have.;Taip, turime.;Taip, turim.;11
+176;When would you  want them?;Kada norėsite?;Kada norėsite?;0
+177;Tomorrow night  untill Thursday, for one night.;Rytoj  vakare iki ketvirtadienio, vienai nakčiai.;Ryto vakare iki ketvirtadienio, vienų nakčių.;9, 9
+178;Yes, we we've  still got rooms.;Taip dar turime laisvų kambarių.;Taip dar turim laisvų kambarių.;11
+179;What kind of  room would you like?;Kokio Jūs norėtumėte?;Kokio Jus norėtutė?;12
+180;Two single  rooms with bathroom, please.;Dvi vienutes su  voniomis.;Dvi vienetaitės su voniomis.;12
+181;Two single  with bath. O.K. What's the name please?;Dvi  vienutes su voniomis? Jūsų pavardė?;DVI VIENUTĖS SU VONIOMIS?;12, 3, 3
+182;Wilson und  Holz. It's Miss Holz and myself.;Vilsonas ir  Holzas. Tai ponia Holz ir aš.;Vilsonas ir Holzas. Tai ponia Holz ir aš.;0
+183;I've written  it down, Mr.Wilson. Please report at the reception by 2 p.m. tomorrow. Otherwise we do not  guarantee the booking.;Aš užrašiau, ponas  Vilsonai. Prašau rytoj kreiptis į  registratūrą iki 14 val. Kitaip mes negarantuojame Jums kambario.;Aš užrišau, ponas Vilsonai. Prašau rytoj kreiptis į registratūrą iki 14 val. Kitap mes negarantuojame Jus kambario.;13, 12, 12
+184;"Thank  you; good-bye.";Ačiū, viso gero.;Ačiū, viso gero.;0
+185;"A telegram; reading a message.";Telegramos  perskaitymas;Telegramos perskaita;13
+186;Here  is a telegram for you.;Čia yra telegrama Jums.;Čia yra telegrama Jums.;0
+187;For  me? How strange. Who sent it?;Man?  Keista. Nuo ko?;Keista. Nuo ko?;3
+188;How  should I know? Open it and read it!;Aš nežinau. Atidaryk ir perskaityk!;Aš nežinau. Atidaryk ir perskaityk!;0
+189;Arrive  one day later - stop -please stay in Berlin - stop - sightseing perhaps? - stop - See you  later - stop - Peter H.;Atvykstu viena diena vėliau - taškas - pasilik Berlyne - taškas  - gal pasižvalgyk mieste - taškas - Pasimatysime - taškas - Peter H.;Atvykstu viena diena vėliau - taskas - tasilik Berlyne - taskas - gal pasižvalgyk mieste - taskas - pasimatysime - taskas - Peter H.;12, 12, 12, 12, 12
+190;Well,  are you staying?;Taigi,  pasilieki?;Taigi, pasilieki?;0
+191;Of  course I am!;Na, žinoma!;Na, žinoma!;0
+192;Another  message...Reading a bizarre message.;Dar viena žinutė;Dar viena žiurė;13
+193;Have a  listen:  Do I come? - or do you come? Over the weekend or on Friday? In the castle or in the court  gardens? Where shall we meet?;Klausyk,  aš atvykstu ar Tu atvyksti? Savaitgalyje ar penktadienį?  Pilyje ar pilies sode? Kur susitinkame?;Klausyk, aš esu atvykstu ar Tu atvyksti? Savaitgalyje ar penktadienyje? Pilyje ar pilies sode? Kur susiinkame?;2, 9, 12
+194;Who's sent  that then?;Kas tai siunčia?;Kas tai siunčia?;0
+195;I don't  know,  no idea. Perhaps a ghostwriter?;Neįsivaizduoju. Gal dvasia?;Neįsivaizduojama. Gal dvasia?;11
+196;Very  strange!;Labai keista!;Labai keista!;0
+197;Exactly as in  a thriller.;Kaip  detektyve.;Kaip detektyvas.;9
+198;There's no  parking here!;Čia  mašinas statyti draudžiama.;Čia mašinas statyti draudžiama.;0
+199;I didn't know  that. I will drive off immediatly.;Aš  nežinojau. Aš tuoj pat išvažiuosiu.;Aš nežinojau. Aš tavoj pat išvažiuoju.;13
+200;On weekends you  can park here.;Savaitgaliais  galima.;Savaitgaliai galima.;9
+201;And what day is  it today?;O kokia  šiandien diena?;O kokia šiandien diena?;0
+202;Today is  Wednesday.;Trečiadienis.;Trečiadienis.;0
+203;Wha t a  pity! But  I can't wait for 2 days!;Gaila. Bet aš  negaliu dvi dienas laukti.;Gaila. Bet aš negaliu dvi dieni laukti.;12
+204;And you are not  allowed to do so either!;Gaila,  bet niekuo negaliu padėti.;Gaila, bet niekuo negaliu padėti.;0
+205;Enquiring about public transport;Paklausti apie viešąjį transportą;Pakeliamas apie vie<unk> j<unk> transportas;13, 12, 12, 9
+206;Where  do you want to go?;Kur Jūs norėtumėte nueiti?;Kur Jūs norėtutė nueiti?;12
+207;To  the castle please.;Į pilį.;Įpilti.;13
+208;By  tube or bus?;Metro ar autobusu?;Metro ar autobusu?;0
+209;Which  is the best?;O kaip geriau?;O kaip geriau?;0
+210;By  tube it's faster, but the bus is cheaper.;Metro  - greičiau, o autobusu - pigiau.;Metro - greičiau, o autobusu - pigiau.;0
+211;I'll  take the bus.;Tada autobusu.;Tadas autobusu.;0
+212;Which  number (bus) is it please?;Kuris autobusas?;Kuris autobusą?;9
+213;"Number  48; it goes directly to the castle.";48 numeris važiuoja  tiesiai prie pilies.;48 numeris važiuoja tiesiai prie pilies.;0
+214;Where  is the stop?;Kur sustojimas?;Kur sustojimas?;0
+215;The  stop is right here, at the corner, on tie right hand side.;Sustojimas čia pat, už kampo, dešinėje pusėje.;Sustojimas čia pat, už kampo, dešinėje pusėje.;0
+216;Oi the right, yes of cource, I almost forgot about that.;Dešinėje? Aš visai užmiršau.;Aš visau užmiršau.;3
+217;Many thanks.;Didelis ačiū.;Didelis ačiū.;0
+218;You're welcome.;Nėr už ką.;Nėr už ką.;0
+219;Describing  an accident;Avarija;Avarija;0
+220;What was that?;Kas atsitiko?;Kas pasitiko?;13
+221;An accident,  in Kantstrasse.;Avarija Kanto gatvėje.;Avarija Kanto gatvėje.;0
+222;How did it happen?;Kaip tai  buvo?;Kaip tai buvo?;0
+223;The traffic  lights at the crossing are not working. Three cars have collided.;Šviesoforas kryžkelėje nedirba. Susidūrė trys  automobiliai.;Šviesoforas kryžkelėje nedirba. Susidūrė išbando automobilius.;13, 9
+224;Is somebody injured?;Ar kas nors sužeistas?;Ar kas nors sužaisti?;12
+225;Yes, two  drivers are badly injured' the other passengers only slightly, thank goodness.;Taip, du vairuotojai sunkiai sužeisti, ačiū Dievui - kiti nesunkiai.;Taip, du vairuotojai sužaisti, ačiū Dievui - kiti nesunkiai.;12
+226;Whenn did it  happen then?;Kada tai  atsitiko?;Kada tai atsitiko?;0
+227;Ten minutes  ago. Somebody rang the ambulance.;Prieš dešimt minučių. Kažkas iškvietė greitąją.;Prieš dešimt minučių. Kažkas išvežioja greitąją.;13
+228;It will be  here soon.;Ji greitai  atvyks.;Ji greitai atvyks.;0
+229;I hope so. The  traffic looks like chaos, don't you think?;Tikėkimės. Toks didelis judėjimas, ar ne?;Tikėkimės. Toks didelis judėjimas, ar ne?;0
+230;Difficulties  on the phone (to complain about an order;Apie  nesusipratimus telefonu;Apie nesusipratimus telefonu;0
+231;Sauer & Co., hello.;Alio, Sauer  & Co.;Alio, Sauer & Co.;0
+232;Good morning.  Becker fashions. We received your parcels this morning.;Labas rytas. Bekerio mados. Šiandien gavome Jūsų siuntinį.;Labas rytas. Bekerio mados. Šiandienos gavome;11, 3, 3
+233;Which parcel  are you talking about?;Apie kurį siuntinį Jūs kalbate?;Apie kurį siuntinį jūs kalbate?;14
+234;The delivery  of socks.;Siuntinys su kojinėmis.;Siuntinys su kojinėmis.;0
+235;Now I remember. Good.;Prisimenu.;Prisimenu.;0
+236;I'm pleased.;Gerai, kad  gavote.;Gerai, kad gavote.;0
+237;No, not good  at all.;Visai ne  gerai.;Visai ne gerai.;0
+238;There are as  many as 300 pairs of grey socks.;Jame 300 porų pilkų kojinių.;Jame 300 porų pilkų kojinų.;0
+239;That's right.;Teisingai.;Teisingai.;0
+240;No, it's not  right. Miss...;Ne,  neteisingai, panele...;Ne, neteisingai, panele...;0
+241;Mrs., if you  please, Mrs. Ernst.;Ponia...  Ponia Ernst.;Ponia... Ponia Ernst.;0
+242;Mrs. Ernst, we  didn't actually order 300 pairs of grey socks.;Ponia Ernst, mes iš tikrųjų neužsakėme 300 porų pilkų kojinių.;Ponia Ernst, aš esu tikrų neužsakymas 300 porų pilkų kojinių.;9, 13, 12, 11
+243;Oh, yes, you  did. I've got it here in the books.;Užsakėte. Aš matau knygoje.;Užsakyta iš anksto Aš matau knygoje.;11, 1, 1
+244;Mrs. Ernst,  something must be wrong there. We ordered 30 pairs of grey socks, not 300.;Ponia Ernst, kažkas čia negerai. Mes užsakėme 30 porų pilkų kojinių, o  ne 300.;Ponia Ernst, kažkas čia negerai. Mes užsakinėjame 30 porų pilkų kojinių, o ne 300.;12
+245;Not 300 then?;Ne 300?;Ne 300?;0
+246;Oh well, send  those you don't want back to us.;Ach, išsiųskite mums, jeigu Jūs jų nenorite.;Ach, išsioskite mums, jeigu Jūsų nenorite.;12, 9, 1
+247;Goodbye.;Viso gero.;Viso gero.;0
+248;I don't know  what to say, but what I can do?;Aš tiesiog nežinau, ką pasakyti. Bet ką aš galiu padaryti?;Iš čia svečiai gali mėgautis lengvu susisiekimu.;16
+249;A meeting  on the plane;Susitikimas lėktuve;Susitikimas lėkštuve;13
+250;Hello, Mrs Schmidt.;Sveika, ponia  Šmidt.;Šveika, Ponia Šmidt.;12
+251;What a  surprise to meet you here on the plane!;Koks netikėtumas Jus čia lėktuve sutikti!;<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>;16
+252;Yes. Isn't it?;Tikrai?;Tikrai?;0
+253;How are you?;Kaip sekasi?;Kaip sekasi?;0
+254;I'm fine  thanks, and how are you?;Puikiai, o  Jums?;Puikiai, o Jusai?;12
+255;Where are you  going to?;Kur Jūs vykstate?;Kur Jūs vykstate?;0
+256;I'm going to  visit my son. He is living in Switzerland now. And what about you?;Ruošiuosi aplankyti savo sūnų. Jis gyvena Šveicarijoje. O Jūs?;Ruošiuosi aplaistytos savo sūnų. Jis gyvena Šveicarijuje. O mes?;13, 9, 9
+257;I'm on  business again. I often fly on this route.;Aš vėl komandiruotėje. Aš dažnai skrendu šiuo maršrutu.;Aš esu čia. Aš esu čia. Aš esu čia.;16
+258;I see. How  often then?;Matau. Kaip dažnai?;Matau, kaip dažnai?;12, 12
+259;About 2-3  times per month.;Maždaug tris kartus per mėnesį;Maždaug tris kartus per mėnesį;0
+260;I'm only  flying for the second time today!;O aš skrendu šiandien antrą kartą!;Iš čia svečiai gali mėgautis lengvumu!;16
+261;No wonder that  we don't meet more then!;Ne nuostabu, kad mes ne dažnai susitinkame!;Ne nuostabu, kad mes ne dažnai susitinkame!;0
+262;Talking  about interests;Pokalbis apie pomėgius;Pokalbis apie pomėgį;9
+263;What are you  interested in?;Kuo Jūs domitės?;Kuo Jus domitės?;12
+264;That depends.  I'm interested in many things.;Kaip čia pasakius? Aš domiuosi daugeliu dalykų.;Kaip čia pasakius? Aš domiesi daugeliukų.;12, 12, 3
+265;Are you  interested in art?;Ar Jūs domitės menu?;Ar Jūsų namų meniu?;9, 13, 13
+266;What kind of  art do you mean?;Žiūrint ką Jūs turite galvoje?;Žiūrėti ką Jūs turit gale?;11, 12, 13
+267;Paintings.;Tapybą.;Tapybą.;0
+268;Oh yes, I'm  very interested in paintings.;O taip. Man  patinka tapyba.;Man patinka tapyba.;3, 3
+269;What kind of  paintings are you particularly interested in?;Kokia tapybos rūšimi Jūs daugiausiai domitės?;Kokia tapybos rūšimi Jus daugių domitės?;12, 12
+270;Expressionist  paintings like the ones by Kandinsky and Schmidt-Rotluf for  example. I like both very much.;Ekspresionistai, pavyzdžiui tokie kaip Kandinskis ir  Šmidt-Rotlufas. Aš juos abu mėgstu.;Ekspresionistai, pavyzdžiui tokie kaip Kandinskis ir Šmidt-Rotlufas. Aš juos abu mėgstu.;0
+271;So you are  only interested in modern art?;Taigi, Jūs domitės tik moderniu menu?;Taigi, Jūsų namų tik modernų meniu?;9, 13, 9, 13
+272;No, I'm also  interested in the impressionists, but not as much.;O ne. Man  patinka ir impresionistai, nors ne perdaug.;Man patinka ir impresionistai, nors ne perdaug.;3, 3
+273;I 'm not  interested in paintings at all, only in photography.;O man visai  nepatinka tapyba. Aš domiuosi fotografija.;O vyras visai nepatinka tapyba. Aš domiesi fotografija.;13, 9
+274;Talking  about the weather;Pokalbis apie orą;Pokalbis apie;3
+275;Do you know  what the weather is going to be like?;Ar žinote, koks bus oras?;Ar žinote, koks bus oras?;0
+276;"Yes, I happen  to know it; I've seen the weather report.";Taip, atsitiktinai perskaičiau orų prognozę.;Taip, atsitiktinai persikaičiau orų prognozė.;9
+277;What's the  weather like in London?;Koks bus oras  Londone?;Koks autobusas iš Londono?;13, 13
+278;"In London  it's cool; but it's going to improve.";Bus vėsu, bet žada pasitaisyti.;Bus vėsu, bet žada pasitaikys.;13
+279;And what's  the weather in Berlin going to be like?;O koks bus  oras Berlyne?;O koks autobusas ar Berlyne?;13, 13
+280;Here it's  going to stay warm, just as yeterday. Here it's going to be a lovely  summer.;Ž  ada būti  saulėtas ir šiltas, toks kaip vakar. Puiki vasara!;<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>;16
+281;You are quite  right.;Jūs teisus.;Mes teisūs.;9
+282;It's fairly  warm already.;Jau net dabar  šilta.;Dau net dabar šilta.;12
+283;According to  the report, we will get as much as 30o centigrade today.;Pagal prognozę bus šiandien 30  o šilumos.;Pagal prognozę autobusų šindien 30 o šilumos.;13, 12
+284;Do  you like it?(To express likes);Ar  Jums patinka?;Ar Jums patinka?;0
+285;Do you like  Berlin?;Ar patinka  Jums Berlynas?;Ar patinka Jus Berlynas?;5, 9
+286;Oh, yes very  much.;Taip, labai  patinka.;Taip, labas patinka.;13
+287;What do you  like best?;O kas  daugiausiai patinka?;O kas daugiaus patinka?;12
+288;I like the  National Gallery and Schloss Charlottenburg best.;Daugiausiai Nacionalinė galerija ir Šarlotenburgo pilis.;Daugių nacionalinė galerija ir Šarlotenburgo pilis.;12
+289;But also like  the Court Gardens.;Taip pat  patinka pilies sodas.;Taip pat pat patinka pilies sodos.;0
+290;Would you like  to live in Berlin?;Ar norėtumėte gyventi Berlyne?;Ar norėtutėte giventi Berlyne?;12, 12
+291;Oh  yes, that  would be good. I would speak German a lot better then.;Tai būtų puiku. Aš geriau kalbėčiau vokiškai.;Tai ūsų puiku. Aš geriau kalbėčiau vokiškai.;12
+292;Where do you  live then?;Kur Jūs gyvenate?;Kur mes gyvenate?;9
+293;I live in  London, and you?;Aš gyvenu Londone, o Jūs?;Aš givenu Londone, o jūs?;12, 14
+294;"I have been  living here in the ""Spreemetropolis' for the past 40 years. I'm a genuine Berliner.";Aš gyvenu čia Šprimetropolyje jau keturis metus. Esu tikras  berlynietis.;Aš givenu čia Šprimetropolyje jau keturis metus. Esu tikras berlynietis.;12
+295;To  discuss methods of payment;Apie mokėjimo būdus;Apie Mokomąjį Būdą;12, 13, 12, 9
+296;That comes to  125 marks 50.;Tai bus 125 markės ir 50.;Tai autobusas 125 markės ir 50.;13
+297;I haven't got  that much on me, sorry.;Gaila, prie savęs aš neturiu tiek daug.;Gaila, prie savos aš neturiu tiek daug.;11
+298;That doesn't  matter. You can pay by credit card.;Tai nieko. Jūs galite mokėti kreditine kortele.;Tai nieko. Jūs galit<unk> mok<unk> ti kreditine kortele.;12
+299;Do you also  take cheques?;O ar galiu čekiais?;O gal ir čekiai?;13, 13, 9
+300;Yes, if you  have a valid cheque card (on you).;Taip, jeigu  jie galiojantys.;Taip, jeigu jie galiojantys.;0
+301;Yes, of course.;Taip, žinoma.;Taip, žinoma.;0
+302;All right  then. Please make the cheque payable to Zille and Co.;Gerai. Išrašykite tada čekį Ciles ir Ko vardu.;Gerai. Išrašikite tada čekį Ciles ir Ko vardu.;12
+303;And here is  my cheques card.;Štai čekis, prašau.;Štai čekis, prašau.;0
+304;Ah,  see, you  are English? You speak German very well.;Ach, Jūs anglas? Bet Jūs kalbate puikiai vokiškai.;Ach, Jūs anglas? Bet Jūs kalbate puikiai vokiškai.;0
+305;Congratulations!;Sveikinu!;Sveikinu!;0
+306;Thank you  very much.;Ačiū.;Ačiū.;0
+307;To  express quality;Apie dovanas (kokybė);Apie dovanas (kokybė);0
+308;Have a look at  the present I bought.;Pažiūrėk, kokią dovaną aš nupirkau.;Pažiūrėk, kokią dovaną aš nupirkau.;0
+309;Oh, a  wallet,  made of leather.;O, piniginė, ir odinė.;O, piniginė, ir odinė.;0
+310;Who is it  for.;Kam tai?;Kam tai?;0
+311;For  Max, for  his birthday.;Maksui, jo  gimtadienis.;Maksui, jo gimtadienis.;0
+312;"I bought a  spectacle case made from a nice piece of cloth for him; and from his girlfriend he is  getting a genuine silver ring.";O aš nupirkau jam dėklą akiniams iš gražios medžiagos o nuo  savo mergaitės jis gaus tikrą sidabrinį žiedą.;O aš nupirkau uogiene drėkinti akiniams išgraužti mediagos o nuo savo mergaitės jis gaus tikrą sidabrinę žiedę.;13, 13, 13, 12, 9, 9
+313;Really?;Tikrai?;Tikrai?;0
+314;Yes, made of  real silver.;Taip, tikrą sidabrinį.;Taip, tikrą sidabrinę.;9
+315;He is well off  this year.;Jam sekasi  šiemet.;Jam sekasi šiemet.;0
+316;To  describe a person;Apibūdinti asmenį;Apibudinti asmenis;12, 9
+317;Could you  please meet my uncle at 12.57?;Ar negalėtum 12.57 sutikti mano dėdę?;Ar negalėtum 12.57 sutikti mano dieną?;13
+318;I'm  busy.;Aš neturiu  laiko.;Aš neturiu laiko.;0
+319;From the  station, you mean?;Turi galvoje,  nuo stoties?;Turi galvoje, nuo stoties?;0
+320;Okay, what  does he look like?;Na gerai, o  kaip jis atrodo?;Na gerai, o kaip jis atrodo?;0
+321;He is very  tall, about 6', and he's rather fat.;Jis labai  aukštas, apie 1,8 m, ir pilnas;Jis labai aukštas, apie 1,8 m, ir pilkas;13
+322;Does he wear  glasses?;Ar jis  nešioja akinius?;Ar jis nešioja akinius?;0
+323;Yes, and he is  always very elegantly dressed. Most of the time in a dark suit, and he is always carrying  a briefcase.;Taip, jis visada apsirengęs elegantiškai. Dažniausiai tamsiu  kostiumu, visada su portfeliu.;Taip, jis visada apsirengęs elegantiškus. Dažniaus tamsiu kostiumu, visada su portfeliu.;11, 12
+324;There are  hundreds of those types. What's his name then?;Tokių šimtai. Koks gi jo vardas ir pavardė?;Tokių šimtai. Koks gi jo vardas ir pavardė?;0
+325;Heinrich  Meier, the same as me.;Henrikas  Mejeris, kaip ir aš.;Henrikas Mejeris, kaip ir aš.;0
+326;Get  well wishes;Palinkkėimai pasveikti.;Palinkėjimai pasveikti.;0
+327;Have you  anything planned for today?;Ar ką nors šiandien planavai?;Ar ką nors šiandien planavai?;0
+328;Yes, I have to  go to the hospital.;Taip, turiu nueiti į ligoninę.;Taip, turi nueiti į ligoninę.;9
+329;Oh, what's  hapenned then?;O kas  atsitiko?;O kas atsitiko?;0
+330;My granndad is  in hospital.;Mano senelis ligoninėje.;Mano senelis ligoninėje.;0
+331;I'm going to  visit him;Norėčiau jį aplankyti.;Norėčiau, kad būtų aišku.;16
+332;He's had an  accident, you know.;Tu gi žinai, jis buvo papuolęs į avariją.;Tu gi žynai, jis buvo papuolęs į avariją.;12
+333;Oh,  dear, how  is he then?;O kaip jis  dabar?;O kaip jis dabar?;0
+334;He's better  now, thank goodness.;Ačiū Dievui, dabar jaučiasi geriau.;Ačiū Dievui, dabar jaučiasi gerau.;0
+335;He has had a  car accident, you know,;Tai buvo automobilio avarija, tu žinai.;Tai buvo automobilio avarija, tu žiureti.;13
+336;Well, when I  think of it, I feel sort of queasy.(lit.);Kai aš apie  tai galvoju, man tiesiog bloga.;Kai aš apie tai galvoju, vyras tieciog bloga.;13, 12
+337;I'm sorry for  him. He meant to fly to Zurich, didn't he?;Man gaila. Jis norėjo į Ciuriką skrįsti, ar ne?;Man gaila. Jis norėjo į Ciuriką skrįsti, ar ne?;0
+338;Yes today  (exactly). He was really unfortunate.;Tiksliai,  šiandien. Jam tiesiog nepasisekė.;Tiksliai, šiandiena. Jam tiesiog nepasisekė.;11
+339;Ich wish him a  speedy recovery.;Linkiu jam kuo greičiau pasveikti.;Linkiu jam kuo greičiau pasveikti.;0
+340;Thanks. Bye  for now.;Ačiū. Kol kas.;Ačiū. Kol kas.;0
+341;Cheers.;Iki.;Iki.;0
+342;The  mysterious briefcase;Paslaptingas  portfelis;Paslaptingo portfelis;0
+343;Well,  Mrs. B.  I say, your briefcase looks very smart.;O, ponas B., Jūsų portfelis atrodo labai įdomiai.;O, ponas B., Jūsų portelis atrodo labi įdomiai.;12, 12
+344;What have you  got in it?;Ką Jūs ten turite?;Ką jūs ten turit?;14, 11
+345;I don't know  myself, actually.;Aš iš tikrųjų pats nežinau.;Iš čia svečiai gali mėgautis lengvu susisiekimu.;16
+346;What? Do you  mean that you don't know what's in your case?;Ką? Jūs sakote, kad pats nežinote, ką turite portfelyje?;Ką? Jūs sakote, kad paats nežinote, ką turit portlelyje?;12, 11
+347;That's what I  said.;Taip, kaip girdėjote.;Taip, kaip girdėjote.;0
+348;Don't you want  to know it?;Ir nenorite žinoti?;Ir nenorite žinių?;11
+349;Of course I do.;Žinoma, noriu.;Žinoma, noriu.;0
+350;Then I would  certainly feel better.;Jausčiausi tada geriau.;Jausčiausi tada gerau.;12
+351;Why don't you  have a look then?;Tai kodėl tada nepažiūrite?;Tai kodėl tada nepažiūrite?;0
+352;"Okay then;  here, look for yourself.";Gerai,  pažiūrėk pats.;Gerai, pažiūlėk pats.;12
+353;Only papers,  nothing but papers.;Nieko, tik  popieriai.;Nieko, tik popieriai.;0
+354;Are you  feeling better now?;Ar dabar Jums  geriau?;Ar Dabaras Jusas Geriau?;13, 12, 12
+355;At a  Party,  talking about a family.;Vakarėlyje,  apie šeimą;Vakarėlyje, apie šeimą;0
+356;We haven't seen  each other for ages. How are your children?;Šimtą  metų nesimatėme. Kaip Jūsų vaikai?;Šimtos metų nesimateme. Kaip Jūsų vaikams?;9, 12, 9
+357;You have got  two,  haven't you?;Jūs  turite du, ar ne?;Jūs turite du, ar ne?;0
+358;That's  right.  Since we last met my daughter has married.;Taip.  Nuo to laiko, kai buvome susitikę, mano duktė ištekėjo.;Taip. Nuo iki laiko, kai buvome susitikę, mano duktė ištekėjo.;13
+359;Your daughter is  a doctor, isn't she?;Jūsų  duktė gydytoja, ar ne?;<unk> <unk> <unk> <unk> <unk> , ar ne?;16
+360;No, my wife is a  doctor.;Ne,  mano žmona yra gydytoja.;Ne, mano žmona yra gydytoja.;0
+361;My daughter is  still at university, and my son as well.;Mano  duktė dar studijuoja universitete, taip pat ir sūnus.;Mano duktė dar studentas universitete, taip pat ir sunus.;11, 12
+362;What do they  study then?;Ką jie  studijuoja?;Ką jie studijuoja?;0
+363;Both the same  subject.;Abu  tą patį dalyką.;Abu ta pati patalynė.;12, 13
+364;Business  management.;Vadybą.;Vadyba.;9
+365;And your  children? What do they do?;O  Jūsų vaikai? Ką jie veikia?;O jūsų vaikams? Ką jie daro?;14, 9, 13
+366;I have no  children.;Aš  neturiu vaikų.;Aš negrų vaikų.;13
+367;I'm not  married, either.;Ir  nesu vedęs.;Ir nesu vedęs.;0
+368;You must be  thinking of my sister.;Jūs  tikriausiai galvojate apie mano seserį?;Mes tikriausiai galvojate apie mano mano seserį?;9,  1
+369;She has two  children.;Ji turi du  vaikus.;Ji turi du vaikus.;0
+370;Holidays;Atostogos;Atostogos;0
+371;How was your  holiday then?;Kaip Tavo  atostogos?;Kaip Tavo atostogos?;0
+372;Great. We've been  to South Germany by car.;Puikiai.  Mes keliavome po pietinę Vokietiją automobiliu.;Puikiai. Mes keliavome po pietinės Vokietijos automobilių stovėjimo aikštelės.;9, 9, 9, 1, 1
+373;I don't know  South Germany.;Aš  visai nežinau pietinės Vokietijos.;Aš visa nežinau pietinės Vokietijos.;0
+374;Oh, the area is  wonderful! Meadows, woods, mountains, mountain lakes. We loved it!;O,  vietos puikios! Pievos, miškai, kalnai, ir ežerai. Mums labai patiko.;O, vietos puikios! Pievos, miškai, kalnai, ir ežerai. Mums laboratorijos patiko.;13
+375;What was the  weather like?;O koks buvo  oras?;O koks buvo oras?;0
+376;We had 7 days  rain and 3 days of sunshine!;Septynias  dienas lijo, o tris - švietė saulė!;septynias diena lijo, o tris - švitė saulė!;12, 9, 12
+377;Plans for a  picnic. Making sugestions.;Iškylos  planavimas. Pasiūlymai.;Iškylos planas. Pasiūlymai.;11
+378;Are you  hungry?  Or not yet?;Ar Tu jau  alkanas, ar dar ne?;Ar Tu jau alkanas, ar dar ne?;0
+379;I'm hungry and  thirsty.;Aš  alkanas ir ištroškęs.;Aš alkanas ir ištroškęs.;0
+380;Shall we have our  picnic?;Ar jau  valgysime?;Ar jau valgysime?;0
+381;That's a great  idea. Where shall we have the picknic?;Tai  puiki mintis. Kur bus mūsų piknikas?;Tai puiki mintis. Kur bus mūsų piknikas?;0
+382;I suggest in the  court gardens.;Siūlau  pilies sode.;Šiūlų piliakalnis sode.;13, 13
+383;Yes, that's  grand. Afterwards we can go inside and have a look around. I would like to see the  porcelain collection.;O,  mes galime eiti į vidų ir apžiūrėti pilį. Aš norėčiau pamatyti porceliano  kolekciją.;O, mes galime eiti į vidu ir apžiūrėti pilį. Aš norečiau pamatyti porceliano kolekciją.;12, 12
+384;It's very  famous.  It contains all the original pieces from the 18th century.;Ji  gana garsi. Visi daiktai originalūs, iš 18 amžiaus.;Ji gana garsi. Visi daitai originalūs, iš 18 amžiau.;12
+385;I've heard about  that. I hope we won't break anything.;Aš  girdėjau apie tai. Tikiuosi, mes jų nesudaužysime.;Aš esu čia. Aš esu čia, aš esu čia.;16
+386;Don't  worry! It's  all behind glass.;Nesijaudink! Jie  visi po stiklu.;Nesijaudink! Jie visi po stiklu.;0
+387;Turning up late for an appointment;Vėlavimas  į susitikimą;Vėlavimas į susitikimą;0
+388;It's now twenty  past 12.;Jau  20 minučių po dvyliktos.;Jau 20 minučių po dvyliktos.;0
+389;I had expected  you at 12.;Aš  Jūsų laukiau dvyliktą.;Aš esu Aš jūsų laukimas dvyliktą.;2, 2, 14, 11
+390;But you are quite  out of breat!.;Bet  Jūs gi uždusęs!;Bet jūs gi uždusęs!;14
+391;I'm sorry. I had  (really) bad luck. This is a black day for me.;Atsiprašau, bet  man labai nesisekė. Nesėkminga diena.;Pasiprašau, lažinkis, labas nesisekė. Nesėkminga diena.;12, 13, 12, 13
+392;Everything went  wrong.;Viskas buvo  blogai.;Viskas buvo blogai.;0
+393;What do you mean?;Ką Jūs turite galvoje?;Ką jūs turite galvoje?;14
+394;Well, the train  arrived late.;Nagi,  traukinys vėlavo.;Nagi, traukinys vėlavo.;0
+395;"Then I couldn't  get a taxi; and besides the lift here isn't working either.";Po  to negalėjau rasti taksi, be to čia ir liftas nedirba.;Po to negalėjau rasti taksi, be to, kad cia ir liftas nedirba.;12, 2, 12
+396;I must say that's  really too bad. First get your breath back.;Tikrai blogai. Bet pirmiausia atgaukite kvapą. Atsisėskite.;Tikrai blogai. Bet pirmiausia atgaukite kvapą. Atsisėskite.;0
+397;Thanks. No  wonder, today is Friday the 13th.;Nieko  nuostabaus, šiandien vasario 13 diena.;Nieko nuostabaus, Šiandien vasario 13 diena.;12
+398;To express  surprise and disbelief;Išreikšti  nustebimą ir netikėjimą;Ištvirkęs nustebimas ir netėjimas;13, 9, 12, 13
+399;I have a surprise  for you.;Turiu  Tau siurprizą.;Turiu Tau siurprizą.;0
+400;What is it,  please do tell me!;Kas tai,  pasakyk.;Kas tai, pasakyk.;0
+401;Have a quess.;Spėk.;Spėk.;0
+402;What could it be?  I have no idea.;Kas  tai galėtų būti. Neturiu supratimo.;Kas tai gali būti. Neturiu supratimo.;11
+403;Imagine you had  won the pools.;Įsivaizduokite,  išlošėte.;Įsivaizduokite, išlošėte.;0
+404;What do you mean?;Ką  Jūs turite galvoje?;Ką jūs turite galvoje?;14
+405;As I said: You  have won a huge amount of money.;Aš  gi pasakiau. Jūs laimėjote krūvą pinigų.;Aš gi pasakiau. Jūsų laimejote kruvą pinigų.;9, 12, 12
+406;What, me? Really?  How come?;Kas?  Aš? Iš tikrųjų? Kaip?;Kas? Aš? Aš tikrų? Kaip?;13, 11
+407;I don't know how  to say.;Aš  nežinau, ką ir sakyti.;Aš nežinau, ką ir sakyti.;0
+408;We schould have a  drink on that!;Turime išgerti.;Turime išgerti.;0
+409;Yes, of course.  I'll pay for it.;Žinoma.  Aš moku.;Aš moku.;3
+410;Enquiring  about a mystery (or good luck?);Paslaptis?;Paslapčios?;11
+411;Please  tell me inspector, why all these mysteries?;Pasakykite prašom, inspektoriau, kas čia per paslaptis?;Pasikeikimas prašom, inspektoru, kas čia per paslaptį?;13, 12, 9
+412;That  I will tell you: this Man has inherited a fortune and doesn't believe it.;Aš galiu pasakyti, jam nusišypsojo laimė. Ir jis netiki.;Iš čia svečiai gali mėgautis lengvumu. Ir jis netiki.;16
+413;What  do you mean?;Ką Jūs turite galvoje?;Ką jūs turite galvoje?;14
+414;He  just can't believe it.;Jis negali patikėti.;Jis negali patiekti.;13
+415;Did  he really inherit it?;Ar jis tikrai laimėjo?;Ar jis tikrai laimėjo?;0
+416;Are  you sure it's true?;Ar Jūs tikras, tai tiesa?;Ar jūs tikras, tai tiesa?;14
+417;They  are hardly any doubts.;Nėra jokios abejonės.;Nėra jokios abejonės.;0
+418;What  do you mean by that?;Ką visa tai reiškia?;Ką visa tai reiškia?;0
+419;I  don't believe it either! It's too good to be true!;Aš tikrai netikiu. Tai būtų per daug gerai.;Aš tikrinu netikiu. Tai būstų per daug gerų.;13, 13, 11
+420;Two  friends on holiday;Du  draugai atostogauja;Du draugai atostogauja;0
+421;I  have to go to the bank and change money.;Aš turiu nueiti į banką ir pakeisti pinigus.;Aš turiu nueiti į banką ir pakeisti pinigus.;0
+422;Let's  go together.;Eikime kartu.;Eikime karto.;13
+423;I  need money as well.;Man  taip pat reikia pinigų.;Man taip pat reikia pinigų.;0
+424;What's  the exchange rate today?;Koks  kursas šiandien?;Koks kursas šindien?;12
+425;Not  so favourable, but I haven't any more cash.;Ne  toks jau geras, bet aš nebeturiu grynųjų.;Ne toks jau geras, bet aš nebeturiu grinų.;12, 11
+426;Only  traveller's cheques.;Tik  kelioninius čekius.;Tik kelioninius čekius.;0
+427;In  the restaurant opposite I've paid with my credit card.;Restorane,  priešais, aš mokėjau kreditine kortele.;Restorane, priešais, aš mokau kreditine kortele.;13
+428;That's  possible?;Ar  galima?;Ar galima?;0
+429;What  is the food like there?;Kaip  ten valgis?;Kaip ten valgis?;0
+430;I  found it very good.;Man  patiko.;Vyras patiko.;13
+431;The  chef knows how to cook well.;Virėjas  moka virti.;Virėjas moka virti.;0
+432;At the  bank;Banke;Banke;0
+433;Would you please  change this 500 mark note into Swiss franks for me?;Iškeiskite  prašom 500 markių į šveicariškus frankus.;Iškeiskite prasom 500 markių į šveicariškus frankus.;12
+434;Please go to the  foreign exchange counter.;Eikite  prašom prie užsienio valiutos keitimo langelio.;Eikite prašom prie užsienio valiutos maitinimo langelio.;13
+435;Thank  you.;Ačiū.;Ačiū.;0
+436;At the  foreign exchange counter;Prie  užsienio valiutos keitimo langelio;Prie užusienio valiutos keitimo langelio;11
+437;I'd like Swiss  franks, for 500 marks please.;Norėčiau  šveicariškų frankų už 500 markių.;Norėčiau šveicariškų frankų už 500 markių.;0
+438;Certainly. Here  is your money and your receipt.;Prašom.  Štai Jūsų pinigai ir kvitas.;Prašom. Štai Jūsų pinigai ir kvitas.;0
+439;Could you also  give me Austrian shilings for 1000 marks please.;Duokite man  prašom dar Austrijos šilingų už 1000 markių?;Duokit man prašom dar Australijos šilingų už 1000 markių?;0
+440;Cash or  traveller's cheques?;Grynais  ar kelioniniais čekiais?;Grynai ar kelioniniai čekiai?;12, 9, 9
+441;Cash  please.;Grynais  prašom.;Grybas prašom.;13
+442;In the  street, asking for help;Gatvėje,  prašant pagalbos;Gatvėje, prašant pagalbos;0
+443;Hello, Mrs  Becker. How are you?;Sveiki  p. Becker. Kaip laikotės?;Sveiki p. Becker. Kaip laikotes?;12
+444;Fine.  Thanks.;Ahiū.  Gerai.;Ahiū, Gerai.;0
+445;How are  you?;O  kaip Jūs?;O kaip Jūs?;0
+446;Not so  well.;Taip sau.;Taip sau.;0
+447;Oh  dear. What is  the matter then?;O brangioji, kas  yra?;O brangioji, kas ira?;12
+448;My credit card is  gone.;Mano  kreditinė kortelė dingo.;Mano kreditinė kortelė dingo.;0
+449;I can't find it  anywhere.;Aš  niekur negaliu jos rasti.;Aš niekur negaliu jos rasti.;0
+450;When did you last  have it?;Kada  paskutinį kartą ją turėjote?;Kada paskutinysis kartonas turijote?;12, 11, 13, 4, 12
+451;Only  yesterday.;Dar vakar.;Dar vakar.;0
+452;I paid for  something with the card.;Aš mokkjau už  kažką kortele.;Aš mokau už kažką kortele.;0
+453;Go to the bank  straight away.;Eikite tuoj pat  į banką.;Eikite į banką.;3, 3
+454;Do come with me  please.;Eikime kartu,  prašau.;Eikimė kartu, prašau.;12
+455;I have a bad  headache.;Man labai skauda  galvą.;Man labaai skauda galvą.;12
+456;Of course I'll  come with you.;Žinoma, gerai.;Žinoma, gerai.;0
+457;We'll go to a  cafe and have a cup of coffee.;Mes užeisime į  kavinę ir išgersime puoduką kavos.;Mes užeisime į kavinę ir išgersime puoduko kavą.;9, 9
+458;I have some  aspirin tablets and in the cafe we can get some water.;Aš turiu  aspirino tabletę, o kavinėje gausime vandens.;Aš turiu aspirino tabletę, o kavalieje gausime vandens.;0
+459;Plans  for the Evening;Planai  vakarui;Planai vakarui;0
+460;What shall we do  this evening?;Ką  mes darysime šį vakarą?;Ką mes darysime <unk> vakarą?;12
+461;Do we want to go  to the cinema or to the theatre?;Gal eisime į  kiną ar teatrą?;Gal eisime į kiną ar teatrą?;0
+462;I'm sure we'll  still get tickets.;Galėtumėm dar  gauti bilietus.;Galėtumam dar gauti bilietus.;12
+463;But we could also  go dancing.;Galėtumėm  ir pašokti nueiti.;Galėtumėm ir pastori nueiti.;12
+464;I like  anything,  ballet or theatre.;Aš  mėgstu viską, ir baletą ir teatrą.;Aš mėgstu viską, ir baletą ir teatrą.;0
+465;"I also like going  to the cinema; you choose,what to do.";"Aš  mėgstu ir kiną; sugalvok, ką mes darysime.";"Aš megstu ir kiną; sugalvok, ką mes darysime.";12
+466;I just want to  have a night out.;Aš  tiesiog norėčiau kur nors išeiti.;Aš tiesiog norėčiau kur nei išeiti.;12
+467;Peter remembers  how hard up he is.;Piteris  prisimena, kaip sunku prie kasos.;Piteris prisimena, kaip sunku prie kasos.;0
+468;But he can't  suggest watching television.;Bet  jis negali pasiūlyti televizijos.;Bet jis negalutinės nuotraukos.;13, 2, 13
+469;They borrow the  newspaper from the man sitting at the table next to them and look for the theatre programme.;Jie pasiskolina  laikraštį iš vyriškio prie gretimo staliuko ir žiūri teatrų programą.;Jie pasiskolina laikrodžiui išvyti iš vyriško prievartinio stalo ir žiuri arbatos programą.;13, 1, 12, 13, 3, 11, 3, 13
+470;They find nothing  suitable, and decide to go to a restaurant.;Jie  neranda nieko tinkamo ir nusprendžia nueiti į restoraną.;Jie neranda nieko tinkamo ir nusprendzia nueiti į restoraną.;12
+471;I'll take you of course.;Žinoma, aš jus  kviečiu.;Žinoma, aš jus kviečiu.;0
+472;I know a good  restaurant. It's fairly small and not expensive.;Aš žinau gerą  restoraną. Jis nedidelis ir nebrangus.;Aš žinau gerą restoraną. Jis nedidelis ir nebrangus.;0
+473;Service is good  and the food tastes excelent. That is the most important thing, don't you think?;Aptarnavimas  geras ir maistas puikus. O tai svarbiausia, ar ne?;Aptarnavimas geras ir maistas puikus. O tai svarbiausia, ar ne?;0
+474;Yes, thank you.;Taip, ačiū.;Taip, ačiū.;0
+475;I can wear the  shirt that I bought a minute ago, and the tie, which you gave me as present.;Ap galiu  apsivilkti marškinius, kuriuos tik ką nusipirkau ir kaklaraištį, kurį tu man  padovanojai.;<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>;16
+476;We schould go now.;Mes turėtumėm  jau eiti.;Mes turėtumėm jaunai eiti.;13
+477;The shops close  at 6 and I still want to buy something.;Parduotuvės  užsidaro 6-tą, o aš dar noriu ką nors nusipirkti.;Parduotuvės užsidaro 6-tą, o aš dar noriu ką nors nusipirkti.;0
+478;Waiter, bill please!;Padavėjau, prašom sąskaitą.;Padavėjai, prašom sąskaitą.;9
+479;"A little jug of  coffee, one lemon tea and 2 pieces of cake; that comes to 9 marks 70.";"Mažas kavinukas  kavos, arbata su citrina ir 2 gabaliukai pyrago; už visa tai 9 markės 70.";"Mažas kavinukas kavas, arbata su citrina ir 2 gabaliukai pirago; už visa tai 9 markės 70.";9, 12
+480;Here's your bill.;Štai Jūsų  sąskaita.;Štų Jūsų sąskaita.;0
+481;Should I give a tip?;Ar aš turiu  duoti arbatpinigių?;Ar aš turiu duotų arbatpinigių?;9
+482;Only 30 Pfennigs,  if you want to.;Tiktai 30  pfenigių, jeigu nori.;Tiktai 30 pfenigių, jeigu nori.;0
+483;In Germany,  service is always included.;Vokietijoje  aptarnavimas visada įjungtas.;Vokietijoje aptarnavimas visada įjungtas.;0
+484;To  clarify a confusion (wrong address);Išaiškinti  nesusipratimą (blogas adresas);Ištvirkęs nesusipratimą (blogas adresas);13
+485;Good  morning, are you from the express-courier service?;Labas  rytas. Ar Jūs iš ekspreso kurjerių tarnybos?;Labas rytas. Ar Jūs iš ekspreso kurjerių tarnybos?;0
+486;Yes,  that's right.;Taip.;Taip.;0
+487;We  have been expecting you.;Mes  laukėme Jūsų.;Mes laukėme Jūsų.;0
+488;Come in.;Prašom  įeiti.;Prašom įeiti.;0
+489;Thanks.  Did you wait long?;Ačiū.  Ar Jūs laukėte ilgai?;Ačiū. Ar Jūs laukėte ilgai?;0
+490;It's  all right. Where are the parcels?;Nieko.  Kur paketas?;Nieko. Kur paketas?;0
+491;Have  you got them?;Ar  Jūs turite jį?;Ar JŪS TURITE JĮ?;12
+492;Of  course. Here you are, both in the name of Schmidt.;Žinoma.  Štai, abu Šmidto vardu.;Žinoma. Štai, abu Šmidto vardu.;0
+493;Schmidt?  My name is Schulz, Elvira Schulz.;Šmidto?  Mano vardas Šulz, Elvyra Šulz.;Mano vardas Šulz, Elvyra Šulz.;3
+494;There  must be something wrong. Here it says: Schmidt, Bahnhof Street 12, third floor.;Tai  kažkas negerai. Bet čia parašyta: Šmidt, Bahnhof Street 12, trečias aukštas.;Tai kažkas negerai. Bet čia parašita: Šmidt, Bahnhof Street 12, trečias aukštas.;12
+495;Yes,  the address is correct, but we are on the fourth floor. The Schmidts are living on the 3rd floor.;Taip  adresas teisingas, bet mes esame ketvirtame aukšte. Šmidtai gyvena trečiajame.;Taip adresas teisingas, bet mes esame ketvirtame aukštai. Šmidtai gyvena trečiajame.;0
+496;Oh,  I'm sorry.;O,  atsiprašau.;O, atsiprašau.;0
+497;Goodbye.;Viso  gero.;Viso gero.;0
+498;What on earth did they order? Also with express-courier!;Kas  gi po galais čia dedasi? Ir dar ekspreso kurjeriai!;Kas gi po galais cia dedasi? Ir dar ekspreso kurjeriai!;12
+499;Airplane disaster in Vilnius - what is known about the event?;Lėktuvo katastrofa Vilniuje – kas žinoma apie įvykį?;Lėkštuvo katastrofa Vilniuje – kas žinių apie įvyki?;13, 11, 12
+500;"On Monday morning a plane crash occurred in the capital - in Liepkalnis, near Vilnius Airport, a cargo aircraft ""Boeing 737"" crashed.";Pirmadienio rytą sostinėje įvyko lėktuvo katastrofa – Liepkalnyje, netoli Vilniaus oro uosto, nukrito krovininis orlaivis „Boeing 737“.;Pagrindinis puslapis <unk> Programinė įranga <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>;16
+501;One person was killed in the incident, three were injured, one of them is a Lithuanian.;Per įvykį vienas žmogus žuvo, trys sužeisti, vienas iš jų yra lietuvis.;Per įvyką vienas žmogus žuvo, trys sužeista, viena iš jos yra lietuvis.;9, 9, 9, 9
+502;On Monday at 5.28 am received information that a cargo plane crashed in Liepkalnis near the house.;Pirmadienį 5.28 val. ryto gauta informacija, kad krovininis lėktuvas nukrito Liepkalnyje šalia namo.;Pirmadienį 5.28 val. ryto gauta informacija, kad krovininis lėktuvas nukritime Liepkalnyje salia nam.;11, 12, 12
+503;Commercial aircraft flew to Vilnius from Leipzig, Germany.;Krovininis lėktuvas į Vilnių skrido iš Leipcigo, Vokietijos.;Krovinis lėktuvas į Vilnių skrido iš Leipcigo, Vokietija.;11, 9
+504;Before the flight to Vilnius, the plane stood unused for two days, November 23-24, at Leipzig Airport.;Prieš skrydį į Vilnių lėktuvas dvi dienas, lapkričio 23–24 d., Leipcigo oro uoste stovėjo nenaudojamas, nors įprastai orlaiviu buvo skraidoma kasdien.;Prieš skrydį į Vilnių lėktuvas dvidienis, lapkričio 23<unk> 24 d., Leipcigo oro nuostos stovėjo nenaudojamas, nors įprastus orlaiviu buvo skraidoma kasdien.;13, 3, 12, 12, 11
+505;Airplane crashed in Liepkalnis, at the intersection of Žirniai and Liepkalnis streets.;Lėktuvas nukrito Liepkalnyje, ties Žirnių ir Liepkalnio gatvėmis.;Lėktuvas nukrito Liepkalnyje, ties Žirnių ir Liepkalnio gatvėmis.;0
+506;"Company DHL's commissioned flights were performed by an aircraft belonging to Spanish airlines ""Swiftair"".";Bendrovės DHL užsakomuosius skrydžius vykdė lėktuvas, priklausęs Ispanijos oro linijoms „Swiftair“.;Bendrovės DHL užsakius skrydžius vykdė lėktuvas, priklausantis Ispanijos oro linijoms<unk> Swiftair“.;11, 11, 12
+507;In the internet, when the pilot's and flight commander's voice recording appeared, it was noticed that the conversation was completely routine, no signs of panic were recorded.;Internete pasirodžius pilotų ir skrydžio vadovo garso įrašui, pastebėta, kad pokalbis buvo visiškai rutininis, nefiksuota jokių nerimo ženklų.;Internete pasirodžiau pilotų ir skrydžio vado įrašui, pastebėtai, kad pokalbiui buvo visiškai rutininis, nefiksuotai jokių nervų ženelių.;9, 11, 3, 9, 9, 11
+508;DHL informed that due to the plane crash an investigation has been started.;DHL informavo, kad dėl lėktuvo katastrofos pradėtas tyrimas.;DHL infoavo, kad lėl lėkštuvo katastrofos pradėtas tyrimas.;12, 12, 11
+509;An incident occurred in the place where it was seen that the aircraft's landing gear touched down more than 100 meters away.;Incidento vietoje buvo matyti, kad orlaivio nuolaužos pažiro net 100 m atstumu.;Incidento vietoje buvo matyti, kad orlaivio nuolaužos net 100 m atstumu.;3
+510;Medical staff arrived on the scene within six minutes.;Medikai į įvykio vietą atvyko per 6 minutes.;Medikai į įvyki vieto atvyko per 6 minutes.;12
+511;The head of the Vilnius Emergency Medical Assistance Brigade Service Igoris Lukaševas told LRT Radio that the most serious conditions among the wounded crew members are a 54 and 40-year-old people.;Vilniaus greitosios medicinos pagalbos Išvažiuojamųjų brigadų tarnybos vadovas Igoris Lukaševas LRT RADIJUI teigė, kad iš sužeistų įgulos narių sunkiausia būklė – 54 ir 40 metų asmenų.;Vilniaus sveikatos priežiūros paslaugų agentūra Igoris Lukaševas LRT RADIJUI teisybė, kad aš išvykau su savimi įgulų narų sunkausia būklė – 54 ir 40 metų amžiaus.;13, 13, 13, 13, 3, 3, 3, 13, 13, 13, 2, 1, 9, 12, 13
+512;One of them was at least for a time conscious, spoke English.;Vienas jų bent kurį laiką buvo sąmoningas, kalbėjo angliškai.;Vienų jūrų sulenktas kurį laiką buvo sąmoningas, kalbojo angliškais.;9, 13, 13, 12, 9
+513;During flight, they were in the pilot's cabin.;Skrydžio metu jie buvo piloto kabinoje.;Skrydžio metu jie buvo bandomasis kabinete.;13, 9
+514;Survived a 34-year-old crew member of Lithuanian nationality at the time of misfortune was in the aircraft cabin, his injuries were lighter.;Išgyvenęs 34 metų amžiaus įgulos narys lietuvis nelaimės metu buvo orlaivio salone, jo sužalojimai lengvesni.;Išgyvenęs 34 metų amžiaus įgulų narys lietuvis nelaimę meilės arlaivio salone, jo sužaliavimas lengvesni.;9, 9, 13, 4, 12, 13
+515;The Mayor of Vilnius Valdas Benkunskas informed that a state of local extreme emergency would be declared in the disaster area, which would help to take care of residents, manage the territory and provide assistance.;Vilniaus meras Valdas Benkunskas informavo, kad katastrofos teritorijoje bus paskelbta lokali ekstremalioji situacija, tai padės pasirūpinti gyventojais, teritorijos tvarkymu, pagalbos teikimu.;Vilniaus mero Valdo Benkunsko informacija, kad kad kad kad katastrofos teritorijoje bus paskelbta lokali ekstremalioji situacija, tai padėtys pasirūpinti gyventojais, teritorinės medžiagos, pagalba tikimybe.;9, 9, 9, 11, 2, 2, 2, 9, 13, 9, 13
+516;According to the mayor, the health of people affected by air and water pollution is not a problem.;Pasak mero, pavojaus žmonių sveikatai dėl oro, vandens užterštumo nėra.;Pasak mero, pavežaus žmonų sveikatos oro, vandens užteršimo nera.;13, 9, 4,12
+517;Police department together with the General Prosecutor's Office started an investigation into the circumstances of the incident to clarify them.;Policijos departamentas kartu su Generaline prokuratūra pradėjo ikiteisminį tyrimą įvykio aplinkybėms išsiaiškinti.;Policijos departamentas kartu su Generaline prokuratūra pradejo ikiteisminį tyrimą atliekančio asmens apžvalga.;12, 13, 13, 13
+518;We are investigating all possible causes of the accident.;Tiriamos visos galimos avarijos priežastys.;Tiriamos visos galimos avarijos priežastys.;0
+519;The version of terrorism was not excluded, as on June 19, packages were sent from Lithuania via DHL Lietuva that exploded themselves and caused fires in logistics centers in Leipzig and Birmingham.;Terorizmo versija neatmetama, nes liepos 19 d. iš Lietuvos per „DHL Lietuva“ buvo išsiųsti savaime užsidegantys siuntiniai, jie sukėlė gaisrus logistikos centruose Leipcige ir Birmingame.;Terorizmo versija tvarkinga, nes liepos 19 d. iš Lietuvos per<unk> DHL Lietuva“ buvo išvyka į savivaldybę, jie sukėlė gaisrus logistikos centras Leipcige ir Birmingame.;13, 12, 13, 12, 13, 13, 3, 9
+520;Only by chance, a cargo in Leipzig was not loaded into the aircraft.;Tik per atsitiktinumą krovinys Leipcige tuomet nebuvo pakrautas į orlaivį.;Tik per atsitiktinumą krovinys Leipcige tuomet nebuvo pakrautas į orlaivį.;0
+521;There was no indication that the DHL cargo plane crash in Lithuania could be linked to a warning issued by German authorities over the summer about packages carried on planes with explosive devices.;Visgi pirmadienį popiet Vokietijos vidaus reikalų ministerijos atstovas, kurį citavo „Reuters“, teigė, kad nėra jokių požymių, kad DHL krovininio lėktuvo katastrofa Lietuvoje gali būti susijusi su Vokietijos valdžios institucijų vasarą paskelbtu įspėjimu apie lėktuvais skraidintus paketus su padegamaisiais įtaisais.;Visgi pirmadienį popiet Vokietijos vidaus reikalų ministras atstovas, kurį citavo<unk> Reuters“, teigė, kad nerą jokių požymių, kad DHL krovininio lėkštuvo katastrofa Lietuvoje gali būti sujungimai su Vokietijos valdybų institucija;11, 11, 12, 12, 13, 11, 9, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3
+522;The lecturer of the Antanas Gustaitis Aviation Institute at Vilnius Gediminas Technical University (VILNIUS TECH) Vincas Šnirpūnas told LRT.lt that there may be more than one reason for such events.;Vilniaus Gedimino technikos universiteto (VILNIUS TECH) Antano Gustaičio aviacijos instituto lektorius Vincas Šnirpūnas LRT.lt teigė, kad tokių įvykių priežasčių gali būti ne viena.;Vilniaus Gedimino technikos universiteto (VILNIUS TECH) Antano Gustaičio aviacijos instituto lektorius Vincas Šnirpūnas LRT.lt teisė, kad tokių įmonių priežiūra gali būti viena.;13, 13, 13
+523;However, as he says, in any case it is usually related to human error.;Anot jo, vis dėlto dažniausiai tai susiję su žmogiška klaida.;Anot jo, vis dėlto dažniausiai tai susiję su žmogiška klaida.;0
